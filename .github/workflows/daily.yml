@@ -11,6 +11,11 @@ on:
 permissions:
   contents: write
 
+# never let two digest runs race each other's git push
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -38,4 +43,7 @@ jobs:
           git add docs/digest
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "Digest for $(date -u +%F)"
+          # re-runs and concurrent pushes: replay our digest commit on top of
+          # whatever main has become since this run's snapshot
+          git pull --rebase origin main
           git push
