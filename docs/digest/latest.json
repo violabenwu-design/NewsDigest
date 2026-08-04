@@ -1,7 +1,7 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T17:53:09+00:00",
+  "generated_at": "2026-08-04T21:46:07+00:00",
   "sources": [
     {
       "outlet": "NPR",
@@ -72,213 +72,2523 @@
   ],
   "topics": [
     {
-      "id": "t5",
-      "title": "Coverage: arrested",
-      "articles": [
-        {
-          "id": "2b18b4d96376",
-          "outlet": "New York Times",
-          "title": "Man Arrested on Suspicion of Arson in Spokane Wildfire",
-          "url": "https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html",
-          "published_at": "2026-08-04T20:39:56+00:00"
-        },
-        {
-          "id": "e27961896c03",
-          "outlet": "ABC News",
-          "title": "ICE arrested 51K individuals in July, highest in a single month in DHS history",
-          "url": "https://abcnews.com/Politics/ice-arrests-hit-record-high-july-enforcement-quietly/story?id=135356433",
-          "published_at": "2026-08-04T21:05:44+00:00"
-        }
-      ],
-      "facts": [
-        {
-          "text": "A shared placeholder fact.",
-          "sources": [
-            "2b18b4d96376",
-            "e27961896c03"
-          ]
-        },
-        {
-          "text": "Placeholder fact unique to one outlet.",
-          "sources": [
-            "2b18b4d96376"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "t1",
-      "title": "Coverage: democrats",
-      "articles": [
-        {
-          "id": "0dd3fd9a3278",
-          "outlet": "NBC News",
-          "title": "Democrats Face Big Test in Critical Michigan Primary",
-          "url": "https://www.today.com/video/primaries-underway-in-5-states-here-are-key-contests-to-watch-267728453730",
-          "published_at": "2026-08-04T15:20:11+00:00"
-        },
-        {
-          "id": "53e39a3dd768",
-          "outlet": "NPR",
-          "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
-          "url": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
-          "published_at": "2026-08-04T21:43:06+00:00"
-        }
-      ],
-      "facts": [
-        {
-          "text": "A shared placeholder fact.",
-          "sources": [
-            "0dd3fd9a3278",
-            "53e39a3dd768"
-          ]
-        },
-        {
-          "text": "Placeholder fact unique to one outlet.",
-          "sources": [
-            "0dd3fd9a3278"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "t2",
-      "title": "Coverage: drought",
-      "articles": [
-        {
-          "id": "89b8bf774588",
-          "outlet": "Wall Street Journal",
-          "title": "Ships Can’t Move and Power Plants Shut Down as Drought Saps Europe’s Rivers",
-          "url": "https://www.wsj.com/world/europe/ships-cant-move-and-power-plants-shut-down-as-drought-saps-europes-rivers-8b083c62",
-          "published_at": "2026-08-03T22:56:00+00:00"
-        },
-        {
-          "id": "825e71c21697",
-          "outlet": "NPR",
-          "title": "Europe heat wave fuels drought, fires and energy fears",
-          "url": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
-          "published_at": "2026-08-04T20:37:38+00:00"
-        }
-      ],
-      "facts": [
-        {
-          "text": "A shared placeholder fact.",
-          "sources": [
-            "825e71c21697",
-            "89b8bf774588"
-          ]
-        },
-        {
-          "text": "Placeholder fact unique to one outlet.",
-          "sources": [
-            "89b8bf774588"
-          ]
-        }
-      ]
-    },
-    {
       "id": "t4",
-      "title": "Coverage: ellison",
-      "articles": [
-        {
-          "id": "db540789fc91",
-          "outlet": "Fox News",
-          "title": "David Ellison breaks silence on Paramount-WBD merger fight, CNN insiders don’t buy ‘lip service’ about network",
-          "url": "https://www.foxnews.com/media/david-ellison-breaks-silence-paramount-wbd-merger-fight-cnn-insiders-dont-buy-lip-service-about-network",
-          "published_at": "2026-08-04T20:12:42+00:00"
-        },
-        {
-          "id": "f81efd41fa4d",
-          "outlet": "New York Times",
-          "title": "David Ellison: In Defense of the Paramount-Warner Deal",
-          "url": "https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html",
-          "published_at": "2026-08-04T21:24:55+00:00"
-        }
-      ],
-      "facts": [
-        {
-          "text": "A shared placeholder fact.",
-          "sources": [
-            "db540789fc91",
-            "f81efd41fa4d"
-          ]
-        },
-        {
-          "text": "Placeholder fact unique to one outlet.",
-          "sources": [
-            "db540789fc91"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "t8",
-      "title": "Coverage: embattled",
+      "title": "Allegations and investigations involving Rep. Max Miller",
       "articles": [
         {
           "id": "f54bb9c4ee37",
           "outlet": "ABC News",
           "title": "WATCH:  Embattled Rep. Max Miller faces new restraining order",
           "url": "https://abcnews.com/video/135349680/",
-          "published_at": "2026-08-04T18:54:26+00:00"
+          "published_at": "2026-08-04T14:54:26+00:00"
         },
         {
           "id": "dd5295e1d07c",
           "outlet": "NBC News",
           "title": "Embattled GOP Rep. Max Miller requests an Ethics investigation into himself",
           "url": "https://www.nbcnews.com/politics/congress/embattled-gop-rep-max-miller-requests-ethics-investigation-rcna590796",
-          "published_at": "2026-08-04T21:25:39+00:00"
+          "published_at": "2026-08-04T17:25:39+00:00"
+        },
+        {
+          "id": "7459313e5cca",
+          "outlet": "CBS News",
+          "title": "House Ethics probing Rep. Max Miller for alleged domestic violence, drug use",
+          "url": "https://www.cbsnews.com/news/max-miller-house-ethics-committee-investigation/",
+          "published_at": "2026-08-04T18:38:00+00:00"
+        },
+        {
+          "id": "fbb1fdf67464",
+          "outlet": "New York Times",
+          "title": "Max Miller Shrugs Off Trump’s Warning and Pushes Ahead in Ohio",
+          "url": "https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html",
+          "published_at": "2026-08-04T19:49:35+00:00"
+        },
+        {
+          "id": "9dcf6a6e0a8a",
+          "outlet": "The Guardian US",
+          "title": "House committee launches investigation into Republican lawmaker amid domestic abuse allegations – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates",
+          "published_at": "2026-08-04T21:18:04+00:00"
         }
       ],
       "facts": [
         {
-          "text": "A shared placeholder fact.",
+          "text": "Max Miller is a Republican member of the House from Ohio.",
           "sources": [
+            "7459313e5cca",
+            "9dcf6a6e0a8a",
             "dd5295e1d07c",
+            "fbb1fdf67464"
+          ]
+        },
+        {
+          "text": "The House Ethics Committee announced on Tuesday that it had opened an investigation into whether Max Miller may have engaged in domestic violence and abuse or illegal drug use in violation of the Code of Official Conduct.",
+          "sources": [
+            "7459313e5cca",
+            "9dcf6a6e0a8a",
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "Sen. Bernie Moreno, R-Ohio, the father of Miller's ex-wife Emily Moreno, said Miller should not serve in the House of Representatives.",
+          "sources": [
+            "7459313e5cca",
+            "9dcf6a6e0a8a",
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "Max Miller said on Tuesday that he would file paperwork to request that the House Ethics Committee investigate domestic abuse allegations made by his ex-wife, writing on X that he has nothing to hide and would provide the committee all documents needed for a detailed examination.",
+          "sources": [
+            "7459313e5cca",
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "CBS News reported on Tuesday that President Trump and some White House officials privately hope Max Miller withdraws, and Republicans hoped pressure from Trump, who issued a warning to Miller about his re-election bid, would lead him to end it.",
+          "sources": [
+            "7459313e5cca",
+            "fbb1fdf67464"
+          ]
+        },
+        {
+          "text": "Stephanie Grisham, who served as White House press secretary during President Trump's first term, filed a restraining order against Rep. Max Miller, according to an ABC News video item dated August 4, 2026.",
+          "sources": [
             "f54bb9c4ee37"
           ]
         },
         {
-          "text": "Placeholder fact unique to one outlet.",
+          "text": "An ABC News video listing dated August 3, 2026, describes Ohio Rep. Max Miller denying accusations.",
           "sources": [
             "f54bb9c4ee37"
           ]
+        },
+        {
+          "text": "The House Ethics Committee stated that conducting the investigation does not indicate that the alleged conduct occurred.",
+          "sources": [
+            "7459313e5cca"
+          ]
+        },
+        {
+          "text": "Miller said in a livestream on X that he never abused his daughter and that no court or agency had substantiated allegations of abuse against him.",
+          "sources": [
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "Max Miller has denied the allegations against him and denied wrongdoing.",
+          "sources": [
+            "7459313e5cca"
+          ]
+        },
+        {
+          "text": "Miller released audio recordings and transcripts that he said supported his account.",
+          "sources": [
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "In one transcript released by Miller, his ex-wife Emily Moreno is identified as telling him she believed he had a drug problem and had found needles by his bed.",
+          "sources": [
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "In another transcript released by Miller, Miller is identified as telling Emily Moreno he was injecting himself with testosterone.",
+          "sources": [
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "Stefan Mychajliw, a spokesperson for Emily Moreno, said Miller was lying about his ex-wife in an attempt to save his political career.",
+          "sources": [
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "Sen. Bernie Moreno said Miller needs psychological help.",
+          "sources": [
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "Sen. Bernie Moreno told reporters at the Capitol on Tuesday that the situation had been a difficult experience for his family and said he met Miller at a police station on Sunday to pick up his granddaughter.",
+          "sources": [
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "President Donald Trump said on Monday that the situation was \"a very sad thing\" and described Miller as a \"good person.\"",
+          "sources": [
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "Sen. John Kennedy, R-La., said the allegation that Miller engaged in domestic abuse is \"none of my business.\"",
+          "sources": [
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "In 2008, then-House Ways and Means Chairman Charlie Rangel, D-N.Y., asked the Ethics Committee to investigate allegations about his use of congressional letterhead, and after a two-year probe the panel found him in violation of 11 House ethics rules and he was censured by the House.",
+          "sources": [
+            "dd5295e1d07c"
+          ]
+        },
+        {
+          "text": "Allegations that Max Miller abused his ex-wife and their child appeared in recent legal filings.",
+          "sources": [
+            "7459313e5cca"
+          ]
+        },
+        {
+          "text": "Multiple lawmakers have called for Max Miller to end his reelection campaign.",
+          "sources": [
+            "7459313e5cca"
+          ]
+        },
+        {
+          "text": "Max Miller is continuing his re-election campaign.",
+          "sources": [
+            "fbb1fdf67464"
+          ]
+        },
+        {
+          "text": "Max Miller posted a livestream video in which he said his former wife had significant mental-health challenges.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "Kansas senator Roger Marshall told Politico that Max Miller should resign.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "West Virginia senator Shelley Moore Capito said she would support Max Miller's resignation if Bernie Moreno believed he should resign.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "In an interview with CNN's Jake Tapper on Tuesday, Max Miller denied Bernie Moreno's claim that Miller withheld his daughter's stuffed toy during a custody exchange.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "Senate majority leader John Thune said the situation involving Max Miller was a family matter and a House matter.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "Immigration and Customs Enforcement officials detained Berhanu Kibret, an instructor at the University of Maryland, Baltimore pharmacy school, at Dallas-Fort Worth airport.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "The Department of Homeland Security confirmed Berhanu Kibret's arrest and cited an expired visa.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "The University of Maryland said Berhanu Kibret was arrested while returning from a meeting of the American Association of Colleges of Pharmacy where he received a teacher of the year award.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "The Associated Press reported that the Trump administration revoked the visa of Brazil's ambassador to the United States.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "The US state department said the visa revocation was a reciprocal response to Brazil's denial of visas for two American diplomats.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "Reuters reported that the Federal Communications Commission is developing a measure to bar imports of new Chinese optical transceivers.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "David Hearn, 67, a former Olympic canoeist, was arrested on 19 June and faced one felony count of property destruction related to the Lincoln Memorial reflecting pool.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "Attorney Steven Levin said David Hearn has a number of potential remedies, including civil suits, bar referrals and requests for sanctions.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
+        },
+        {
+          "text": "Abdul El-Sayed said he would beat Republican opponent Mike Rogers by seven in November.",
+          "sources": [
+            "9dcf6a6e0a8a"
+          ]
         }
+      ],
+      "paragraphs": [
+        [
+          0,
+          19,
+          9,
+          1,
+          7,
+          3
+        ],
+        [
+          6,
+          8,
+          22,
+          10,
+          11,
+          12,
+          25,
+          5,
+          13
+        ],
+        [
+          15,
+          2,
+          14,
+          16,
+          4,
+          20,
+          23,
+          24,
+          17,
+          26,
+          21
+        ],
+        [
+          18
+        ],
+        [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      ]
+    },
+    {
+      "id": "t1",
+      "title": "Arson arrest in Spokane-area wildfires",
+      "articles": [
+        {
+          "id": "ec1f733c32bb",
+          "outlet": "Washington Post",
+          "title": "They fled by boat to the middle of Lake Spokane as wildfires closed in",
+          "url": "https://www.washingtonpost.com/nation/2026/08/04/they-fled-by-boat-middle-lake-spokane-wildfires-closed/",
+          "published_at": "2026-08-04T10:00:01+00:00"
+        },
+        {
+          "id": "8a78d7bf10ba",
+          "outlet": "NPR",
+          "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
+          "url": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
+          "published_at": "2026-08-04T10:56:56+00:00"
+        },
+        {
+          "id": "6b668138e20b",
+          "outlet": "NPR",
+          "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+          "url": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+          "published_at": "2026-08-04T11:29:23+00:00"
+        },
+        {
+          "id": "fa0c46f4f55d",
+          "outlet": "CBS News",
+          "title": "Tip led to arrest of man accused of arson as wildfires ravage Washington, officials say",
+          "url": "https://www.cbsnews.com/video/tip-led-to-arrest-of-man-accused-of-arson-as-wildfires-ravage-washington/",
+          "published_at": "2026-08-04T18:24:22+00:00"
+        },
+        {
+          "id": "4119ca5c29c7",
+          "outlet": "The Guardian US",
+          "title": "Man charged in Washington state with starting largest wildfire in the area",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/washington-state-arson-charge-old-trails-wildfire",
+          "published_at": "2026-08-04T20:52:04+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Aaron Farinacci, 37, of Spokane was arrested and charged with first-degree arson in connection with one of three major wildfires in the Spokane, Washington, area, the Old Trails fire.",
+          "sources": [
+            "4119ca5c29c7",
+            "6b668138e20b",
+            "8a78d7bf10ba",
+            "ec1f733c32bb",
+            "fa0c46f4f55d"
+          ]
+        },
+        {
+          "text": "Officials said tips and reports from citizens led to the arrest; Spokane County Sheriff John Nowels said so at a press conference on Monday night.",
+          "sources": [
+            "4119ca5c29c7",
+            "fa0c46f4f55d"
+          ]
+        },
+        {
+          "text": "Three major wildfires were burning in the Spokane, Washington, area.",
+          "sources": [
+            "8a78d7bf10ba",
+            "fa0c46f4f55d"
+          ]
+        },
+        {
+          "text": "The wildfires destroyed hundreds of homes/structures.",
+          "sources": [
+            "8a78d7bf10ba",
+            "ec1f733c32bb"
+          ]
+        },
+        {
+          "text": "More than 67,000 people were ordered to evacuate because of the Old Trails, Autumn Lane and Fairview fires.",
+          "sources": [
+            "4119ca5c29c7",
+            "fa0c46f4f55d"
+          ]
+        },
+        {
+          "text": "The wildfires displaced nearly one quarter of Spokane's residents.",
+          "sources": [
+            "8a78d7bf10ba"
+          ]
+        },
+        {
+          "text": "The three fires had burned about 16 square miles (41 sq km) of Spokane by early Tuesday.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Authorities said Farinacci was found in possession of waterproof matches and a butane lighter.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Witnesses reported seeing Farinacci kneeling in grass near where the Old Trails fire began.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Nowels said Farinacci had a prior conviction in Arizona for manslaughter, and Farinacci pleaded guilty in 2012 to manslaughter and aggravated assault.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Court records show defense lawyer Jose Colon said Farinacci had been hospitalized multiple times for psychiatric treatment.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Beth Farinacci wrote in a letter to the judge that second-degree murder would have been a more appropriate charge in the Arizona case.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Spokane police responded to reports of several fires on 8 July 2025 near Farinacci's apartment.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "The Old Trails fire started on Saturday north-west of downtown Spokane and crossed the Spokane River.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Washington state's congressional delegation wrote to Donald Trump on Monday requesting approval of an expedited emergency declaration.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Cpl Mark Gregory of the Spokane sheriff's office said on Monday that 14 people remained unaccounted for and that no deaths or major injuries had been reported.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "More than 1,000 firefighters had arrived by Monday to work on the fires.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "A National Weather Service Spokane office bulletin issued Tuesday morning stated that smoke would continue over the region and that dry conditions and breezy winds would increase Friday and Saturday in parts of central Washington.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Micaela Jaime and her family traveled by boat to the middle of Lake Spokane during the wildfires.",
+          "sources": [
+            "ec1f733c32bb"
+          ]
+        },
+        {
+          "text": "KREM reporter Regan Gallo reported on the wildfires and the arrest.",
+          "sources": [
+            "fa0c46f4f55d"
+          ]
+        },
+        {
+          "text": "Primary elections are being held in five states, including Michigan.",
+          "sources": [
+            "6b668138e20b"
+          ]
+        },
+        {
+          "text": "NPR reported that Democrats are watching the Michigan primary for results involving progressive candidates.",
+          "sources": [
+            "6b668138e20b"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          0,
+          8,
+          7,
+          1,
+          19
+        ],
+        [
+          2,
+          13,
+          4,
+          5,
+          3,
+          6
+        ],
+        [
+          15,
+          16,
+          14,
+          17,
+          18
+        ],
+        [
+          9,
+          11,
+          10,
+          12
+        ],
+        [
+          20,
+          21
+        ]
+      ]
+    },
+    {
+      "id": "t9",
+      "title": "Strait of Hormuz talks and Iran war diplomacy",
+      "articles": [
+        {
+          "id": "ae171a469e5d",
+          "outlet": "Wall Street Journal",
+          "title": "Hormuz Opening Uncertain After New Strike",
+          "url": "https://www.wsj.com/world/middle-east/hormuz-opening-uncertain-after-new-strike-hurdles-in-talks-e2dfd2ce?mod=rss_worldnews",
+          "published_at": "2026-08-04T15:26:00+00:00"
+        },
+        {
+          "id": "29cfc5f74fec",
+          "outlet": "ABC News",
+          "title": "Iran live updates: Diplomatic efforts to end war ongoing, Qatari official says",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-deal-imminent-iran-oman/?id=135317231",
+          "published_at": "2026-08-04T18:41:19+00:00"
+        },
+        {
+          "id": "03c401362bce",
+          "outlet": "CBS News",
+          "title": "Progress made in Strait of Hormuz talks, Rubio says",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/",
+          "published_at": "2026-08-04T20:08:02+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "U.S.-facilitated talks between Lebanon and Israel began on Tuesday in Rome at the U.S. Embassy, in the seventh round of negotiations, scheduled to last three days through Thursday, Aug. 6.",
+          "sources": [
+            "03c401362bce",
+            "29cfc5f74fec"
+          ]
+        },
+        {
+          "text": "State Department spokesman Tommy Pigott said in a post on X that the United States remains committed to supporting both the Lebanese and Israeli governments in a process intended to deliver lasting security for both countries, eliminate security threats to Israel, and restore Lebanese state authority in the south.",
+          "sources": [
+            "03c401362bce",
+            "29cfc5f74fec"
+          ]
+        },
+        {
+          "text": "A ship was struck while transiting the Strait of Hormuz, and the reopening of the strait remained uncertain following the strike, with talks about reopening ongoing at the time.",
+          "sources": [
+            "ae171a469e5d"
+          ]
+        },
+        {
+          "text": "Secretary of State Marco Rubio said on Tuesday that progress had been made in talks between Iran and Oman on the Strait of Hormuz, but that finality had not been reached.",
+          "sources": [
+            "03c401362bce"
+          ]
+        },
+        {
+          "text": "Rubio said the United States is involved in the negotiation between Oman and Iran regarding ships passing safely through the Strait of Hormuz.",
+          "sources": [
+            "03c401362bce"
+          ]
+        },
+        {
+          "text": "Rubio said the denuclearization of Iran is the \"ultimate deal\" and that Iran can never have a nuclear weapon.",
+          "sources": [
+            "03c401362bce"
+          ]
+        },
+        {
+          "text": "President Trump said he wanted to give Iran \"every last chance before decapitation.\"",
+          "sources": [
+            "03c401362bce"
+          ]
+        },
+        {
+          "text": "An Iranian source told CBS News that Iran-Oman discussions focus on the mechanics of reopening the Strait of Hormuz, including inbound ships using the channel closest to Iran and outbound ships using the Omani side, and a service fee with revenue split between Iran and Oman.",
+          "sources": [
+            "03c401362bce"
+          ]
+        },
+        {
+          "text": "Yemen's Houthis said on Tuesday that they conducted a drone strike on a target at an airport in southern Saudi Arabia, and Saudi authorities did not comment on the claim.",
+          "sources": [
+            "03c401362bce"
+          ]
+        },
+        {
+          "text": "A U.S. official said the seventh round of talks in Rome would be attended by high-level political and military officials from both sides.",
+          "sources": [
+            "29cfc5f74fec"
+          ]
+        },
+        {
+          "text": "According to Pigott, the talks bring together technical teams from both governments to advance implementation of the Trilateral Framework.",
+          "sources": [
+            "29cfc5f74fec"
+          ]
+        },
+        {
+          "text": "Pigott said the agenda includes the pilot zone process, verified disarmament of Hezbollah and other Iran-backed security threats, redeployment of Israeli forces from southern Lebanon, and preparation for a comprehensive peace and security agreement.",
+          "sources": [
+            "29cfc5f74fec"
+          ]
+        },
+        {
+          "text": "Hezbollah leader Naim Qassem said on Tuesday that the direct negotiations would bring \"nothing but shame, humiliation, and successive compromises\" for Lebanon.",
+          "sources": [
+            "03c401362bce"
+          ]
+        },
+        {
+          "text": "According to the United Nations, clashes have continued in southern Lebanon with daily reports of airstrikes, artillery shelling, demolitions and sonic grenades.",
+          "sources": [
+            "29cfc5f74fec"
+          ]
+        },
+        {
+          "text": "Fighting between Israel and Lebanon escalated into a full ground offensive in March 2026 following regional conflict involving Iran.",
+          "sources": [
+            "29cfc5f74fec"
+          ]
+        },
+        {
+          "text": "A Qatari official said diplomatic efforts to end the war are ongoing.",
+          "sources": [
+            "29cfc5f74fec"
+          ]
+        },
+        {
+          "text": "U.S. Central Command reported that 45 commercial vessels heading into or out of Iranian ports have been redirected since the blockade was restarted the previous month, with two ships boarded and two disabled.",
+          "sources": [
+            "03c401362bce"
+          ]
+        },
+        {
+          "text": "India's Minister for Ports, Shipping and Waterways said on X that the Indian vessel MSV Faize Noore Oliya capsized after being hit by a projectile near Yemeni waters and that all 14 people aboard were rescued by the Yemeni Coast Guard and taken to the Port of Mokha.",
+          "sources": [
+            "03c401362bce"
+          ]
+        },
+        {
+          "text": "The Labor Department said on Tuesday that U.S. employers posted 7.36 million job vacancies in June, down from 7.54 million in May.",
+          "sources": [
+            "03c401362bce"
+          ]
+        },
+        {
+          "text": "As of 2 p.m. ET Tuesday, the S&P 500 rose 1.9%, the Dow Jones Industrial Average gained about 1,000 points or 1.9%, and the Nasdaq composite rose 2.6%.",
+          "sources": [
+            "03c401362bce"
+          ]
+        },
+        {
+          "text": "Palantir Technologies shares rose 29.3% after CEO Alex Karp said the company's overall revenue increased 93% in the quarter.",
+          "sources": [
+            "03c401362bce"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          2,
+          3,
+          4,
+          7,
+          16
+        ],
+        [
+          5,
+          6,
+          15
+        ],
+        [
+          0,
+          9,
+          1,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        [
+          8,
+          17
+        ],
+        [
+          19,
+          20,
+          18
+        ]
       ]
     },
     {
       "id": "t7",
-      "title": "Coverage: judiciary",
+      "title": "US stocks reach record highs",
       "articles": [
         {
-          "id": "e2f45ffcdf52",
-          "outlet": "NBC News",
-          "title": "Senate Judiciary Committee advances Todd Blanche's attorney general nomination",
-          "url": "https://www.nbcnews.com/video/senate-judiciary-committee-advances-todd-blanche-s-attorney-general-nomination-267742277912",
-          "published_at": "2026-08-04T19:17:50+00:00"
+          "id": "44aeead12bd3",
+          "outlet": "CBS News",
+          "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
+          "url": "https://www.cbsnews.com/news/us-stocks-surge-dow-sp-500-iran-strait-hormuz/",
+          "published_at": "2026-08-04T20:15:27+00:00"
         },
         {
-          "id": "ca857dc57260",
-          "outlet": "ABC News",
-          "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
-          "url": "https://abcnews.com/Politics/senate-judiciary-committee-advances-todd-blanches-nomination-attorney/story?id=135353842",
-          "published_at": "2026-08-04T21:19:47+00:00"
+          "id": "3f78a1e7e993",
+          "outlet": "New York Times",
+          "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
+          "url": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html",
+          "published_at": "2026-08-04T20:52:42+00:00"
+        },
+        {
+          "id": "8c1cc32b4c72",
+          "outlet": "The Guardian US",
+          "title": "US stock market hits record highs as AI profits pile and oil prices ease",
+          "url": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
+          "published_at": "2026-08-04T20:56:59+00:00"
         }
       ],
       "facts": [
         {
-          "text": "A shared placeholder fact.",
+          "text": "The S&P 500 rose 1.8%, or about 136 points, on Tuesday, closing at 7,736.52.",
           "sources": [
-            "ca857dc57260",
-            "e2f45ffcdf52"
+            "3f78a1e7e993",
+            "44aeead12bd3",
+            "8c1cc32b4c72"
           ]
         },
         {
-          "text": "Placeholder fact unique to one outlet.",
+          "text": "The S&P 500 closed above its previous record high set at the start of June (June 2).",
           "sources": [
-            "e2f45ffcdf52"
+            "3f78a1e7e993",
+            "44aeead12bd3"
+          ]
+        },
+        {
+          "text": "The Dow Jones Industrial Average rose 907 points, or 1.7%, to 54,085.88.",
+          "sources": [
+            "44aeead12bd3",
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "The Nasdaq Composite gained 2.6%, rising 671.10 points to 26,584.99.",
+          "sources": [
+            "44aeead12bd3",
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "According to FactSet, S&P 500 companies were on track for nearly 50% growth in earnings per share for the spring quarter compared with a year earlier.",
+          "sources": [
+            "44aeead12bd3",
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "Palantir Technologies shares rose about 29% after the company reported quarterly results.",
+          "sources": [
+            "44aeead12bd3",
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "Palantir CEO Alex Karp said the company's revenue rose 93% in the quarter, describing the quarter as \"otherworldly\".",
+          "sources": [
+            "44aeead12bd3",
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "Palantir raised its revenue forecast for full-year 2026.",
+          "sources": [
+            "44aeead12bd3",
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "Caterpillar shares rose after the company reported profit and revenue above analysts' expectations (up 6.5% per CBS News, 5.6% per The Guardian).",
+          "sources": [
+            "44aeead12bd3",
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "Caterpillar recorded more than $20 billion in sales and revenue in a quarter for the first time.",
+          "sources": [
+            "44aeead12bd3",
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "Brent crude fell to about $79 per barrel on Tuesday (down 4.9% to $79.64 per CBS News, down 5.3% to $79.36 per The Guardian).",
+          "sources": [
+            "44aeead12bd3",
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "The New York Times reported that the S&P 500 hit a record high.",
+          "sources": [
+            "3f78a1e7e993"
+          ]
+        },
+        {
+          "text": "Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached within days.",
+          "sources": [
+            "44aeead12bd3"
+          ]
+        },
+        {
+          "text": "The Job Openings and Labor Turnover Survey showed U.S. hiring remained solid with layoffs at modest levels.",
+          "sources": [
+            "44aeead12bd3"
+          ]
+        },
+        {
+          "text": "Adam Crisafulli, head of Vital Knowledge, wrote that the equity rally was driven by earnings from Caterpillar and Palantir, Bessent's remarks on CNBC, and the JOLTS report.",
+          "sources": [
+            "44aeead12bd3"
+          ]
+        },
+        {
+          "text": "The stock market gain followed a recent sell-off in technology stocks.",
+          "sources": [
+            "3f78a1e7e993"
+          ]
+        },
+        {
+          "text": "The New York Times attributed the stock market move to easing concerns about Iran and artificial intelligence.",
+          "sources": [
+            "3f78a1e7e993"
+          ]
+        },
+        {
+          "text": "So far this year, the Dow has risen 12%, the S&P 500 13% and the Nasdaq 14%.",
+          "sources": [
+            "44aeead12bd3"
+          ]
+        },
+        {
+          "text": "Caterpillar CEO Joe Creed said the company was seeing strong order rates and a growing backlog across its main businesses.",
+          "sources": [
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "Brent crude had ranged between $72 and $102 during July.",
+          "sources": [
+            "44aeead12bd3"
+          ]
+        },
+        {
+          "text": "The yield on the 10-year Treasury fell to 4.62%, from 4.70% on Monday and 4.75% at the end of the previous week.",
+          "sources": [
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "Nvidia shares rose 2.6%, Broadcom shares rose 6.6% and Micron Technology shares rose 7.6%.",
+          "sources": [
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "Chipotle Mexican Grill shares fell 9.7% after the chain removed jalapeños from some restaurants following a salmonella outbreak.",
+          "sources": [
+            "8c1cc32b4c72"
+          ]
+        },
+        {
+          "text": "Chipotle said Minnesota health officials have no ongoing concerns with the company.",
+          "sources": [
+            "8c1cc32b4c72"
           ]
         }
+      ],
+      "paragraphs": [
+        [
+          0,
+          1,
+          2,
+          3,
+          15,
+          17
+        ],
+        [
+          11,
+          16,
+          14,
+          12,
+          13
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          18
+        ],
+        [
+          21,
+          22,
+          23
+        ],
+        [
+          10,
+          19,
+          20
+        ]
+      ]
+    },
+    {
+      "id": "t15",
+      "title": "Chipotle pulls jalapeños amid salmonella investigation",
+      "articles": [
+        {
+          "id": "22a13b51f589",
+          "outlet": "NBC News",
+          "title": "Chipotle removes jalapeños after possible link to salmonella outbreak",
+          "url": "https://www.nbcnews.com/health/health-news/chipotle-removes-jalapenos-possible-link-salmonella-outbreak-rcna590826",
+          "published_at": "2026-08-04T19:27:10+00:00"
+        },
+        {
+          "id": "9c7bd22ee31d",
+          "outlet": "CBS News",
+          "title": "Chipotle removes jalapenos linked to Minnesota salmonella outbreak",
+          "url": "https://www.cbsnews.com/news/chipotle-jalapenos-minnesota-salmonella-outbreak/",
+          "published_at": "2026-08-04T20:58:22+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Chipotle said on Tuesday that it had removed jalapeños from its restaurants and replaced them with product from other growers.",
+          "sources": [
+            "22a13b51f589",
+            "9c7bd22ee31d"
+          ]
+        },
+        {
+          "text": "A salmonella outbreak in Minnesota has sickened at least 110 people, according to the Minnesota Department of Health.",
+          "sources": [
+            "22a13b51f589",
+            "9c7bd22ee31d"
+          ]
+        },
+        {
+          "text": "Minnesota state officials interviewed 84 people sickened in the outbreak, and 75 of them (89%) reported eating at Chipotle between June 14 and July 14, with most visits occurring between June 24 and July 2.",
+          "sources": [
+            "22a13b51f589",
+            "9c7bd22ee31d"
+          ]
+        },
+        {
+          "text": "The Food and Drug Administration said it began a traceback investigation on July 22 into multiple ingredients tied to the salmonella outbreak, following a cluster of cases identified by the CDC and state officials.",
+          "sources": [
+            "22a13b51f589",
+            "9c7bd22ee31d"
+          ]
+        },
+        {
+          "text": "A cyclosporiasis outbreak has been tied to shredded iceberg lettuce served at Taco Bell from supplier Taylor Farms de Mexico, has sickened thousands of people in nine states, and two deaths have been reported.",
+          "sources": [
+            "22a13b51f589",
+            "9c7bd22ee31d"
+          ]
+        },
+        {
+          "text": "Jalapeños are used in Chipotle menu items including chili-corn salsa, pico de gallo and guacamole.",
+          "sources": [
+            "22a13b51f589"
+          ]
+        },
+        {
+          "text": "Carlota Medus, a senior epidemiologist supervisor in the Minnesota Department of Health Foodborne Disease Unit, said the outbreak is linked to Mexican-style restaurants.",
+          "sources": [
+            "22a13b51f589"
+          ]
+        },
+        {
+          "text": "Medus said jalapeños are suspected as the vehicle of the outbreak.",
+          "sources": [
+            "22a13b51f589"
+          ]
+        },
+        {
+          "text": "The FDA said on Tuesday that there were 212 cases and did not identify a source.",
+          "sources": [
+            "22a13b51f589"
+          ]
+        },
+        {
+          "text": "Laurie Schalow, Chipotle's chief corporate affairs and food safety officer, said the jalapeños in question were sent to several food service retailers across multiple states.",
+          "sources": [
+            "22a13b51f589"
+          ]
+        },
+        {
+          "text": "Chipotle said the outbreak had affected several food service retailers in Minnesota.",
+          "sources": [
+            "9c7bd22ee31d"
+          ]
+        },
+        {
+          "text": "The Minnesota Department of Health said Chipotle provided records and information about products received at its restaurants during the investigation.",
+          "sources": [
+            "22a13b51f589"
+          ]
+        },
+        {
+          "text": "Chipotle said the Minnesota Department of Health confirmed it has no ongoing concerns with the company.",
+          "sources": [
+            "9c7bd22ee31d"
+          ]
+        },
+        {
+          "text": "The FDA said Chipotle began reviewing its supply chain in coordination with state partners.",
+          "sources": [
+            "9c7bd22ee31d"
+          ]
+        },
+        {
+          "text": "Shares of Chipotle fell $3.28, or 8.8%, to $34.18 on Tuesday afternoon.",
+          "sources": [
+            "9c7bd22ee31d"
+          ]
+        },
+        {
+          "text": "Medus said the outbreak could be ongoing if the contaminated food item is served elsewhere and that the case count is expected to increase.",
+          "sources": [
+            "9c7bd22ee31d"
+          ]
+        },
+        {
+          "text": "On July 17, Chipotle said that shredded iceberg lettuce is not served in its restaurants and that its romaine lettuce and Supergreens salad mix are not sourced from Mexico.",
+          "sources": [
+            "22a13b51f589"
+          ]
+        },
+        {
+          "text": "Retail analytics platform Placer.ai provided data to CBS News indicating that foot traffic to Taco Bell dropped by 30% in mid-July.",
+          "sources": [
+            "9c7bd22ee31d"
+          ]
+        },
+        {
+          "text": "The Mayo Clinic states that salmonella can cause diarrhea, fever and stomach cramps within eight to 72 hours after exposure, and that most healthy people recover within days to a week without treatment.",
+          "sources": [
+            "9c7bd22ee31d"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          0,
+          5,
+          1,
+          2
+        ],
+        [
+          7,
+          6,
+          15,
+          18
+        ],
+        [
+          9,
+          10,
+          11,
+          12
+        ],
+        [
+          3,
+          13,
+          8,
+          14
+        ],
+        [
+          4,
+          17,
+          16
+        ]
+      ]
+    },
+    {
+      "id": "t2",
+      "title": "Eaton fire cause report",
+      "articles": [
+        {
+          "id": "f86cf52a1fc7",
+          "outlet": "The Guardian US",
+          "title": "Devastating LA wildfire sparked by utility company tower, long-awaited report finds",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/eaton-wildfire-cause-los-angeles",
+          "published_at": "2026-08-04T19:13:06+00:00"
+        },
+        {
+          "id": "c961b9f6efa2",
+          "outlet": "New York Times",
+          "title": "Eaton Fire Caused by Utility’s Transmission Tower, Report Says",
+          "url": "https://www.nytimes.com/2026/08/04/us/eaton-fire-cause-transmission-tower-report.html",
+          "published_at": "2026-08-04T20:38:00+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "A report released on Tuesday by Los Angeles county fire officials attributed the 2025 Eaton fire to equipment belonging to Southern California Edison.",
+          "sources": [
+            "c961b9f6efa2",
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "The report identified electrical arcing events on an out-of-service Southern California Edison transmission tower as the cause of the fire.",
+          "sources": [
+            "c961b9f6efa2",
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "The Eaton fire killed 19 people.",
+          "sources": [
+            "c961b9f6efa2",
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "The fire destroyed or damaged more than 9,000 homes and businesses.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "The fire destroyed the community of Altadena in Los Angeles County.",
+          "sources": [
+            "c961b9f6efa2"
+          ]
+        },
+        {
+          "text": "Los Angeles county fire officials said the investigation lasted 18 months and involved retained electrical and metallurgical experts.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "The investigation was conducted jointly by the Los Angeles county arson fire investigation unit and the California department of forestry and fire protection.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "The Eaton fire burned 22 sq miles (57 sq km).",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "According to the report, two electrical arcing events occurred in quick succession and burning material fell from the tower, igniting dry grass and brush within 12 seconds.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "The report cites a Pasadena resident who called 911 on 7 January and described a 10in by 10in fire at the base of a high-voltage electrical tower.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "Kathleen Dunleavy, a spokesperson for Southern California Edison, said the utility has received the report and is reviewing it.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "Dunleavy said Southern California Edison previously acknowledged that its equipment was likely associated with the ignition of the Eaton fire.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "Southern California Edison claimed in lawsuits earlier in the year that Los Angeles county agencies did not send timely evacuation warnings to residents in east and west Altadena.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "Eighteen of the 19 people who died in the Eaton fire lived in west Altadena.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "Southern California Edison claimed that water agencies, including Pasadena Water and Power, did not supply enough water as the fire spread.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "The Palisades fire killed 12 people and destroyed more than 6,800 homes and buildings in Pacific Palisades.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "Prosecutors said Jonathan Rinderknecht used a barbecue lighter on 1 January 2025 to start a blaze that flared up again on 7 January.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        },
+        {
+          "text": "The first federal arson case against Rinderknecht ended in a mistrial in June.",
+          "sources": [
+            "f86cf52a1fc7"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          0,
+          1,
+          6,
+          5
+        ],
+        [
+          2,
+          4,
+          3,
+          7
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        [
+          15,
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "t3",
+      "title": "European heat wave and Danube water levels",
+      "articles": [
+        {
+          "id": "825e71c21697",
+          "outlet": "NPR",
+          "title": "Europe heat wave fuels drought, fires and energy fears",
+          "url": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
+          "published_at": "2026-08-04T16:37:38+00:00"
+        },
+        {
+          "id": "eefd497c11b7",
+          "outlet": "CBS News",
+          "title": "Nazi ships, mammoth bones emerge as Danube River dries up",
+          "url": "https://www.cbsnews.com/news/danube-river-wwii-shipwrecks-mammoth-bones/",
+          "published_at": "2026-08-04T19:23:00+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Water levels in the Danube River have dropped amid drought, exposing sunken World War II-era German ships.",
+          "sources": [
+            "825e71c21697",
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "A heat wave is affecting Europe.",
+          "sources": [
+            "825e71c21697"
+          ]
+        },
+        {
+          "text": "Nuclear reactors in Europe face risks related to cooling.",
+          "sources": [
+            "825e71c21697"
+          ]
+        },
+        {
+          "text": "Greece is responding to wildfires.",
+          "sources": [
+            "825e71c21697"
+          ]
+        },
+        {
+          "text": "The heat wave is contributing to drought conditions in Europe.",
+          "sources": [
+            "825e71c21697"
+          ]
+        },
+        {
+          "text": "There are concerns about energy supply linked to the heat wave.",
+          "sources": [
+            "825e71c21697"
+          ]
+        },
+        {
+          "text": "The Danube is the second longest river in Europe.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "The Danube flows through 10 nations.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Low water levels on the Danube have brought power plants close to shutting down.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Governments in Central and Eastern Europe are taking measures to conserve electricity.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "A rusty hull with a broken mast is visible in the Danube near the Serbian port of Prahovo, in the stretch of river separating Serbia and Romania.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "At least 20 World War II wrecks of varying sizes are visible from the banks of Prahovo.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "The ships belonged to Nazi Germany's Black Sea fleet and were deliberately sunk by German forces retreating from Romania.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Historians say as many as 200 German warships were scuttled near Prahovo in the Danube gorge in September 1944.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Nazi Germany surrendered in May 1945.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Communist Yugoslav authorities removed some of the wrecks from the river, while most remained because of the explosives on board.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "The Serbian government has sought European Union financial support to address the wrecks.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Ivica Gavrilovic, a lifelong resident near the Danube, said people do not know how to access the ships.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Krsta Brandic, a resident of Prahovo, said large ships can no longer pass because of low water levels.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Sunken Nazi ships carrying explosives emerged in the Danube in 2024 following a summer drought, and dozens appeared near Prahovo in 2022.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Nikolay Nenov, director of the Regional Historical Museum, said bone fragments found near the northeastern Bulgarian city of Ruse very likely belonged to a woolly mammoth from the Ice Age.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Nenov said specialists identified a jawbone, tusk fragments, part of a shoulder blade, and a femur with its articular head among the remains.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Nenov said the concentration of the bones in one place indicates they belonged to a single animal.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        },
+        {
+          "text": "Woolly mammoths died out about 4,000 years ago.",
+          "sources": [
+            "eefd497c11b7"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          1,
+          4,
+          0,
+          6,
+          7
+        ],
+        [
+          10,
+          11,
+          19,
+          18,
+          17
+        ],
+        [
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        [
+          8,
+          9,
+          5,
+          2,
+          3
+        ],
+        [
+          20,
+          21,
+          22,
+          23
+        ]
+      ]
+    },
+    {
+      "id": "t17",
+      "title": "Jeanine Pirro's White House meeting with Trump",
+      "articles": [
+        {
+          "id": "7f2271b6ad50",
+          "outlet": "ABC News",
+          "title": "Pirro meets with Trump at White House amid questions about her future",
+          "url": "https://abcnews.com/Politics/pirro-meets-trump-white-house-amid-questions-future/story?id=135337199",
+          "published_at": "2026-08-04T12:18:27+00:00"
+        },
+        {
+          "id": "05528fd6b22a",
+          "outlet": "New York Times",
+          "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
+          "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html",
+          "published_at": "2026-08-04T21:22:52+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Jeanine Pirro is the U.S. attorney for the District of Columbia.",
+          "sources": [
+            "05528fd6b22a",
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Jeanine Pirro met with President Donald Trump at the White House, in the Oval Office, on Monday afternoon, according to sources familiar with the matter.",
+          "sources": [
+            "05528fd6b22a",
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Doug Burgum is the U.S. interior secretary.",
+          "sources": [
+            "05528fd6b22a"
+          ]
+        },
+        {
+          "text": "Pirro told Trump that Doug Burgum had given him a misleading account.",
+          "sources": [
+            "05528fd6b22a"
+          ]
+        },
+        {
+          "text": "Trump said Pirro \"choked\" and \"folded like an umbrella\" in connection with the dismissal of charges related to damage at the Lincoln Memorial Reflecting Pool.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "The White House did not respond to a request for comment about the meeting between Trump and Pirro.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "A White House official referred ABC News to Trump's earlier Oval Office comments when asked about the future of Pirro's job.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Trump said during an Oval Office event on Monday that he was \"very disappointed\" in Pirro's decision to dismiss the felony indictment against canoeist David Hearn.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Pirro dismissed the felony indictment against three-time Olympian canoeist David Hearn on Friday.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Pirro stated in a 20-page filing that the damage to the Reflecting Pool was caused by flawed installation by the contractor rather than vandalism.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Hearn was arrested at the Reflecting Pool in late June and charged with a felony for allegedly causing more than $1,000 in damage.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Hearn pleaded not guilty and said he had only touched a piece of the liner that had peeled from the bottom.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Pirro cited internal National Park Service communication from June 11 that raised concerns about the peeling pool liner.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Pirro dropped misdemeanor cases against three other people related to destruction of property at the Reflecting Pool.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Trump wrote in a social media post on Saturday that he did not know what Pirro was thinking and that he considered the incident a case of vandalism.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Trump said on Monday that the contractor was rushing to complete the project before July 4 and that vandalism also occurred.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Pirro's Friday court filing stated that she visited the Reflecting Pool on July 1.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "The Reflecting Pool was drained for repairs after the Fourth of July holiday and is currently empty and fenced off from the public.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          1,
+          0,
+          3,
+          2,
+          5,
+          6
+        ],
+        [
+          7,
+          4,
+          15,
+          14
+        ],
+        [
+          8,
+          10,
+          11,
+          13
+        ],
+        [
+          9,
+          12,
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "t13",
+      "title": "Missouri House primary between Cori Bush and Wesley Bell",
+      "articles": [
+        {
+          "id": "b900030d9459",
+          "outlet": "Politico",
+          "title": "Democrats’ stance on Israel takes center stage in Bush-Bell rematch in St. Louis",
+          "url": "https://www.politico.com/news/2026/08/04/cori-bush-wesley-bell-aipac-primary-01022866",
+          "published_at": "2026-08-04T08:45:00+00:00"
+        },
+        {
+          "id": "24cd2911a228",
+          "outlet": "The Hill",
+          "title": "Live results: Bush eyes comeback in Missouri House primary",
+          "url": "https://thehill.com/homenews/5988840-live-results-missouri-house-primary/",
+          "published_at": "2026-08-04T21:00:00+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Former Rep. Cori Bush is challenging Rep. Wesley Bell in a Democratic House primary in Missouri, a rematch of their earlier contest.",
+          "sources": [
+            "24cd2911a228",
+            "b900030d9459"
+          ]
+        },
+        {
+          "text": "The Bell-Bush contest is for a St. Louis-area House seat.",
+          "sources": [
+            "24cd2911a228",
+            "b900030d9459"
+          ]
+        },
+        {
+          "text": "Wesley Bell holds the position of U.S. representative.",
+          "sources": [
+            "b900030d9459"
+          ]
+        },
+        {
+          "text": "Politico reported that the U.S.-Israel relationship is a subject of attention in the Bell-Bush contest.",
+          "sources": [
+            "b900030d9459"
+          ]
+        },
+        {
+          "text": "Wesley Bell defeated Cori Bush in a 2024 primary for the St. Louis-area House seat.",
+          "sources": [
+            "24cd2911a228"
+          ]
+        },
+        {
+          "text": "Cori Bush was a member of the group of progressive House Democrats known as the \"Squad.\"",
+          "sources": [
+            "24cd2911a228"
+          ]
+        },
+        {
+          "text": "Rep. Emmanuel Cleaver's 5th Congressional District in Kansas City was redrawn last year in a way that favors Republicans.",
+          "sources": [
+            "24cd2911a228"
+          ]
+        },
+        {
+          "text": "The St. Louis seat is described as Missouri's only Democratic-leaning district this election cycle.",
+          "sources": [
+            "24cd2911a228"
+          ]
+        },
+        {
+          "text": "Rep. Sam Graves of Missouri's 6th Congressional District is retiring this cycle.",
+          "sources": [
+            "24cd2911a228"
+          ]
+        },
+        {
+          "text": "Sam Graves endorsed conservative radio host Chris Stiggall in the Republican primary for the 6th Congressional District.",
+          "sources": [
+            "24cd2911a228"
+          ]
+        },
+        {
+          "text": "Polls in the Missouri primary close at 8 p.m. EDT.",
+          "sources": [
+            "24cd2911a228"
+          ]
+        },
+        {
+          "text": "Live results are provided by Decision Desk HQ.",
+          "sources": [
+            "24cd2911a228"
+          ]
+        },
+        {
+          "text": "The Hill article was published by The Hill Staff on August 4, 2026.",
+          "sources": [
+            "24cd2911a228"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          0,
+          1,
+          2,
+          4,
+          5
+        ],
+        [
+          7,
+          3
+        ],
+        [
+          6,
+          8,
+          9
+        ],
+        [
+          10,
+          11,
+          12
+        ]
+      ]
+    },
+    {
+      "id": "t10",
+      "title": "Reports on depleted US missile stockpiles",
+      "articles": [
+        {
+          "id": "68f2dde23f03",
+          "outlet": "NPR",
+          "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
+          "url": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
+          "published_at": "2026-08-04T18:01:04+00:00"
+        },
+        {
+          "id": "df94d38181d8",
+          "outlet": "Fox News",
+          "title": "Alarming missile report draws forceful response from Trump as Iran war tests America’s arsenal",
+          "url": "https://www.foxnews.com/politics/alarming-missile-report-draws-forceful-response-from-trump-iran-war-tests-americas-arsenal",
+          "published_at": "2026-08-04T20:03:05+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NPR published an article about demand for Patriot missiles in the Middle East and Ukraine.",
+          "sources": [
+            "68f2dde23f03"
+          ]
+        },
+        {
+          "text": "The United States and partner countries use Patriot interceptors to intercept incoming ballistic missiles.",
+          "sources": [
+            "68f2dde23f03"
+          ]
+        },
+        {
+          "text": "Russia and Iran launch missiles at rates exceeding the production rate of Patriot interceptors.",
+          "sources": [
+            "68f2dde23f03"
+          ]
+        },
+        {
+          "text": "Reuters reported on Tuesday, citing people familiar with internal U.S. military data, that the Army has used virtually all of its inventories of Army Tactical Missile Systems (ATACMS) and Precision Strike Missiles (PrSM) during a five-month conflict with Iran.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "Reuters reported that the conflict reduced inventories of Patriot and THAAD missile interceptors and Tomahawk cruise missiles.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "President Donald Trump said in a statement to Fox News Digital that the United States has more munitions than any other country and more than it needs.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "Trump said in the statement that an unprecedented amount of munitions was given to Ukraine and Europe at no cost by the Biden administration.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "Trump said U.S. defense companies are currently producing more munitions than ever before and are expanding plants and equipment.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "Pentagon chief spokesman Sean Parnell said in a statement that the U.S. military has everything it needs to execute operations at the time and place of the president's choosing.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "Exact figures for U.S. weapons stockpiles are classified.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "The Center for Strategic and International Studies estimated that the United States had expended approximately 65% of its Patriot interceptor stockpile.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "The Center for Strategic and International Studies estimated that THAAD interceptor inventories had declined by at least 38% since the start of the Iran conflict, based on open-source analysis and budget data.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "Reuters reported that its sources said the CSIS figures broadly aligned with internal U.S. data.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "Trump said after a White House meeting in March that defense companies had agreed to quadruple production of what he called \"Exquisite Class Weaponry.\"",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "Trump told defense industry executives at a June meeting and a July defense summit that the United States has the best quality in the world but needs more speed.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        },
+        {
+          "text": "Trump's proposed $1.5 trillion defense budget would more than triple spending on drones and autonomous systems and increase investment in munitions production, missile defense and Tomahawk cruise missile procurement.",
+          "sources": [
+            "df94d38181d8"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          3,
+          4,
+          9
+        ],
+        [
+          10,
+          11,
+          12
+        ],
+        [
+          5,
+          6,
+          8
+        ],
+        [
+          7,
+          13,
+          14,
+          15
+        ],
+        [
+          0,
+          1,
+          2
+        ]
+      ]
+    },
+    {
+      "id": "t16",
+      "title": "SpaceX quarterly results and spending",
+      "articles": [
+        {
+          "id": "af5a55575275",
+          "outlet": "NBC News",
+          "title": "SpaceX hit by surging AI costs as insiders prepare to sell their shares",
+          "url": "https://www.nbcnews.com/business/business-news/spacex-earnings-surging-ai-costs-rcna590682",
+          "published_at": "2026-08-04T20:55:49+00:00"
+        },
+        {
+          "id": "3efa1a9abecf",
+          "outlet": "CBS News",
+          "title": "SpaceX shows strong growth in its first earnings report since IPO",
+          "url": "https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/",
+          "published_at": "2026-08-04T21:28:59+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "SpaceX reported quarterly revenue of $7.8 billion, exceeding analysts' expectations, in its first quarterly update as a public company.",
+          "sources": [
+            "3efa1a9abecf",
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "SpaceX shares fell about 6.5% to 7% in after-hours trading following the results.",
+          "sources": [
+            "3efa1a9abecf",
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "SpaceX conducted its initial public offering on June 12.",
+          "sources": [
+            "3efa1a9abecf",
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "Analysts surveyed by FactSet had forecast quarterly revenue of $6.8 billion for SpaceX.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "Most of SpaceX's reported revenues came from its Starlink satellite service.",
+          "sources": [
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "SpaceX reported a second-quarter net loss of $541 million, compared with a $1 billion loss in the same quarter a year earlier.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "Capital expenditures related to SpaceX's xAI unit totaled $15.8 billion, about double the level of the previous quarter.",
+          "sources": [
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "Bloomberg News data indicated expectations of $13.09 billion for xAI-related capital expenditures.",
+          "sources": [
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "SpaceX reported overall quarterly capital expenditures of $18.4 billion.",
+          "sources": [
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "SpaceX's xAI unit operates the Grok AI service.",
+          "sources": [
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "SpaceX's AI unit reported quarterly revenue of $2.6 billion.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "SpaceX's connectivity unit reported quarterly revenue of $4.3 billion, above the FactSet analyst estimate of $3.8 billion.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "Starlink's subscriber total reached 12 million, up from 6 million in the year-earlier quarter.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "SpaceX's Starship division reported quarterly revenue of $962 million.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "SpaceX shares had risen 9% during regular trading hours on Tuesday.",
+          "sources": [
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "SpaceX shares fell to $116.40 in after-hours trading, below the IPO offer price of $135 per share.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "SpaceX's stock declined after its IPO, reducing the company's value by $1 trillion.",
+          "sources": [
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "SpaceX has a market valuation of more than $1 trillion.",
+          "sources": [
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "SpaceX stock reached an intraday high of $225.64 on June 16 and has since lost close to 50% of its value.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "SpaceX announced a deal with Nvidia under which Nvidia will provide SpaceX with additional computing power.",
+          "sources": [
+            "af5a55575275"
+          ]
+        },
+        {
+          "text": "Elon Musk said on a call with analysts that it is possible Starlink will eventually deliver the majority of the world's internet.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "SpaceX reported revenue of $18.7 billion and a net loss of more than $4.9 billion for the prior year, according to a regulatory filing.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "Emarketer Senior Analyst Gadjo Sevilla told AFP that investors want to see value turned around quickly rather than hear promises about the next five years or a Mars mission.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "SpaceX launched its 13th Starship rocket in late July and is targeting a moon landing in 2028.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        },
+        {
+          "text": "No Starship had been placed into Earth orbit as of the article's publication.",
+          "sources": [
+            "3efa1a9abecf"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          0,
+          3,
+          2,
+          4,
+          5
+        ],
+        [
+          10,
+          11,
+          12,
+          13,
+          20
+        ],
+        [
+          8,
+          6,
+          7,
+          9,
+          19
+        ],
+        [
+          1,
+          15,
+          14,
+          18,
+          16,
+          17
+        ],
+        [
+          21,
+          23,
+          24,
+          22
+        ]
+      ]
+    },
+    {
+      "id": "t18",
+      "title": "UFC White House event financial loss",
+      "articles": [
+        {
+          "id": "f0b36b9909c0",
+          "outlet": "The Guardian US",
+          "title": "UFC’s White House spectacle led to losses of around $30m, company reveals",
+          "url": "https://www.theguardian.com/sport/2026/aug/04/ufc-freedom-250-white-house-losses-trump",
+          "published_at": "2026-08-04T20:15:58+00:00"
+        },
+        {
+          "id": "32e006cada20",
+          "outlet": "The Hill",
+          "title": "UFC parent company lost $30M on White House fight",
+          "url": "https://thehill.com/business/6008924-tko-ufc-whitehouse-loss/",
+          "published_at": "2026-08-04T21:13:02+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "TKO Group Holdings said staging UFC Freedom 250 resulted in a loss of approximately $30 million, an outcome the company had anticipated, as disclosed by CFO Andrew Schleimer on a Monday earnings call.",
+          "sources": [
+            "32e006cada20",
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "About $60 million was spent on production and overall costs for UFC Freedom 250.",
+          "sources": [
+            "32e006cada20",
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "UFC Freedom 250 took place in June on the South Lawn of the White House, with the fights staged in an octagon.",
+          "sources": [
+            "32e006cada20",
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "President Donald Trump attended UFC Freedom 250.",
+          "sources": [
+            "32e006cada20",
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "No tickets were sold or made available to the general public; a purpose-built structure seated about 4,000-4,300 invitation-only attendees, including Trump administration officials, members of Congress, political allies, financial sponsors, business executives and military servicemembers.",
+          "sources": [
+            "32e006cada20",
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "The event was held on June 14, President Trump's birthday, and featured seven fights.",
+          "sources": [
+            "32e006cada20"
+          ]
+        },
+        {
+          "text": "Vice-President JD Vance attended UFC Freedom 250.",
+          "sources": [
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "UFC CEO Dana White attended the event alongside Trump.",
+          "sources": [
+            "32e006cada20"
+          ]
+        },
+        {
+          "text": "The event was held as part of celebrations marking 250 years of American independence.",
+          "sources": [
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "TKO Group Holdings reported an increase in revenue for the second quarter.",
+          "sources": [
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "TKO attributed a decrease in its profit margin to the financial profile of UFC Freedom 250.",
+          "sources": [
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "TKO's adjusted EBITDA margin decreased from 59 percent in the second quarter of 2025 to 52 percent in the most recent quarter, which the report linked to higher athlete and production costs.",
+          "sources": [
+            "32e006cada20"
+          ]
+        },
+        {
+          "text": "Ariel Emanuel, executive chair and CEO of TKO, said the company delivered solid results in the second quarter despite a challenging global environment.",
+          "sources": [
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "Freedom 250 drew 8.2 million domestic viewers and around 34 million views worldwide.",
+          "sources": [
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "Justin Gaethje of the United States defeated Ilia Topuria of Spain in the UFC lightweight title headliner.",
+          "sources": [
+            "f0b36b9909c0"
+          ]
+        },
+        {
+          "text": "Dana White introduced Trump at the 2024 Republican National Convention in Milwaukee.",
+          "sources": [
+            "32e006cada20"
+          ]
+        },
+        {
+          "text": "Dana White said his company would not hold a repeat of the White House event because of its cost.",
+          "sources": [
+            "32e006cada20"
+          ]
+        },
+        {
+          "text": "TKO's revenue from live events and hospitality declined from $58.5 million in the second quarter of 2025 to $47.8 million in the second quarter of this year.",
+          "sources": [
+            "32e006cada20"
+          ]
+        },
+        {
+          "text": "TKO's quarterly report attributed the decline in live events and hospitality revenue to lower ticket sales revenue, including the absence of ticket sales for UFC Freedom 250 and one fewer Numbered Event.",
+          "sources": [
+            "32e006cada20"
+          ]
+        },
+        {
+          "text": "Mark Shapiro, president and chief operating officer of TKO, said UFC Freedom 250 generated more than $1 billion in earned media value and added 25 new marketing partners.",
+          "sources": [
+            "32e006cada20"
+          ]
+        },
+        {
+          "text": "TKO reported net income of $303.9 million for the second quarter, an increase of $30.8 million compared with the second quarter of 2025.",
+          "sources": [
+            "32e006cada20"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          0,
+          1,
+          16
+        ],
+        [
+          2,
+          5,
+          8,
+          4,
+          14,
+          3,
+          6,
+          7,
+          15
+        ],
+        [
+          9,
+          20,
+          10,
+          11,
+          17,
+          18
+        ],
+        [
+          12,
+          19,
+          13
+        ]
+      ]
+    },
+    {
+      "id": "t14",
+      "title": "Washington state House primaries",
+      "articles": [
+        {
+          "id": "1b48ccede1d7",
+          "outlet": "The Guardian US",
+          "title": "Washington state Democrat who flipped pro-Trump district faces tough primary",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/washington-state-primary-election",
+          "published_at": "2026-08-04T19:21:06+00:00"
+        },
+        {
+          "id": "7937bc924981",
+          "outlet": "The Hill",
+          "title": "Live results: Washington heads to the polls to choose House candidates",
+          "url": "https://thehill.com/homenews/campaign/6004043-live-results-washington-house-primary/",
+          "published_at": "2026-08-04T21:00:00+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Gluesenkamp Perez faces challengers in the primary including Democrat Brent Hennrich and Republican state senator John Braun, the Republican leader of the Washington state senate.",
+          "sources": [
+            "1b48ccede1d7",
+            "7937bc924981"
+          ]
+        },
+        {
+          "text": "Washington uses a top-two primary system in which all candidates compete in a single primary and the two candidates with the most votes advance to the November general election regardless of party.",
+          "sources": [
+            "1b48ccede1d7",
+            "7937bc924981"
+          ]
+        },
+        {
+          "text": "Marie Gluesenkamp Perez is a two-term Democratic member of the US House of Representatives for Washington state's third district.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Nine candidates in total appear on the primary ballot in Washington's third district.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Republican Jaime Herrera Beutler won Washington's third district in 2010 and held the seat for six terms.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Gluesenkamp Perez defeated Trump-endorsed Joe Kent in 2022.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Donald Trump won Washington's third district in each of his three presidential campaigns, most recently by about three percentage points.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "In 2024 Gluesenkamp Perez ran approximately seven points ahead of her party's presidential nominee in the district.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Gluesenkamp Perez owns an auto repair shop.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Laura Oltmann, a 41-year-old district resident who describes herself as a conservative, said she supports Gluesenkamp Perez.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Brent Hennrich ran for the same congressional seat in 2022 and withdrew from that race.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Brent Hennrich has said that Gluesenkamp Perez is not sufficiently progressive for her district.",
+          "sources": [
+            "7937bc924981"
+          ]
+        },
+        {
+          "text": "LaDonna Kirkpatrick, chair of the 18th Legislative District Democrats, cited Gluesenkamp Perez's votes for the Save Act, a bill restricting how public schools address gender identity, and federal funding related to the war in Iran as sources of disappointment.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Thea Zahn, chair of the 20th legislative district Democrats, said she will not vote for Gluesenkamp Perez again.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Terri Niles, chair of the 17th Legislative District Democrats, said the third district is a Republican district and that flipping the House is the goal for Democrats.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "An Emerson College poll conducted in mid-July for the Northwest Progressive Institute found Gluesenkamp Perez and Braun tied.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "John Braun received Donald Trump's endorsement in April and backing from the National Republican Congressional Committee.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Washington voters are voting in a primary to select candidates for November's House elections.",
+          "sources": [
+            "7937bc924981"
+          ]
+        },
+        {
+          "text": "Rep. Dan Newhouse (R-Wash.) is retiring, leaving one open House seat in Washington.",
+          "sources": [
+            "7937bc924981"
+          ]
+        },
+        {
+          "text": "Eleven candidates are running for the seat being vacated by Rep. Dan Newhouse.",
+          "sources": [
+            "7937bc924981"
+          ]
+        },
+        {
+          "text": "Candidates for Newhouse's seat include Republican State Sen. Matt Boehnke, Yakima County commissioner Amanda McKinney, and Toppenish Mayor Elpidia Saavedra.",
+          "sources": [
+            "7937bc924981"
+          ]
+        },
+        {
+          "text": "Air Force veteran John Duresky is the only Democrat running for the seat being vacated by Rep. Dan Newhouse.",
+          "sources": [
+            "7937bc924981"
+          ]
+        },
+        {
+          "text": "Polls in Washington close at 11 p.m. EDT.",
+          "sources": [
+            "7937bc924981"
+          ]
+        },
+        {
+          "text": "The Hill article was published by The Hill Staff on August 4, 2026, at 5:00 PM ET.",
+          "sources": [
+            "7937bc924981"
+          ]
+        },
+        {
+          "text": "The Hill stated that live results are provided by Decision Desk HQ.",
+          "sources": [
+            "7937bc924981"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          17,
+          1
+        ],
+        [
+          2,
+          8,
+          5,
+          7,
+          6,
+          4,
+          3,
+          0,
+          16,
+          15
+        ],
+        [
+          11,
+          10,
+          12,
+          13,
+          14,
+          9
+        ],
+        [
+          18,
+          19,
+          20,
+          21
+        ],
+        [
+          22,
+          24,
+          23
+        ]
       ]
     }
   ]
