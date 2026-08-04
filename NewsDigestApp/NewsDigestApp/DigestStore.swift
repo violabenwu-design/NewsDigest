@@ -11,8 +11,10 @@ final class DigestStore {
     /// Date currently displayed; nil means "latest".
     var selectedDate: String?
 
+    static let defaultBaseURL = "https://violabenwu-design.github.io/NewsDigest/digest"
+
     var baseURLString: String {
-        get { UserDefaults.standard.string(forKey: "digestBaseURL") ?? "" }
+        get { UserDefaults.standard.string(forKey: "digestBaseURL") ?? Self.defaultBaseURL }
         set {
             UserDefaults.standard.set(newValue, forKey: "digestBaseURL")
         }
