@@ -1,0 +1,41 @@
+name: Daily news digest
+
+on:
+  schedule:
+    # GitHub Actions cron is UTC and does not track DST.
+    # 15:00 UTC = 8:00am PDT (summer). Use "0 16 * * *" for 8:00am PST (winter),
+    # or adjust to your timezone.
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python pipeline/main.py
+
+      - name: Commit and push digest
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/digest
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "Digest for $(date -u +%F)"
+          git push

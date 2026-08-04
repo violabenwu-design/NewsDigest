@@ -1,0 +1,139 @@
+2026-08-04 15:47:03,310 INFO reusing article snapshot from 2026-08-04T18:17:13Z (111 articles)
+2026-08-04 15:47:03,403 INFO HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-08-04 15:47:03,403 INFO === ollama (qwen3:8b) ===
+2026-08-04 15:48:05,000 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:48:05,002 INFO clustered 60 articles into 6 multi-outlet topics
+2026-08-04 15:48:11,257 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:48:11,261 INFO extracted 4 facts from d4548ee2f6b7 (Wall Street Journal)
+2026-08-04 15:48:14,416 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:48:14,416 INFO extracted 3 facts from 78b82cea699b (NPR)
+2026-08-04 15:48:21,615 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:48:21,615 INFO extracted 6 facts from e2536a092bf9 (NBC News)
+2026-08-04 15:48:33,683 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:48:33,684 INFO extracted 7 facts from 0dd3fd9a3278 (NBC News)
+2026-08-04 15:49:12,941 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:49:12,944 INFO extracted 18 facts from 1b48ccede1d7 (The Guardian US)
+2026-08-04 15:49:32,262 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:49:32,262 INFO extracted 12 facts from 795307ec8fda (The Guardian US)
+2026-08-04 15:49:37,119 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:49:37,119 INFO extracted 5 facts from d2b9c8e17ed9 (Wall Street Journal)
+2026-08-04 15:49:58,981 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:49:58,987 INFO extracted 12 facts from 1b257144d2b1 (The Guardian US)
+2026-08-04 15:50:04,426 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:50:04,426 INFO extracted 6 facts from 0b42477547af (New York Times)
+2026-08-04 15:50:07,368 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:50:07,368 INFO extracted 3 facts from d237dba6f86b (New York Times)
+2026-08-04 15:50:11,078 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:50:11,078 INFO extracted 4 facts from eb2875864e54 (New York Times)
+2026-08-04 15:50:17,974 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:50:17,974 INFO extracted 5 facts from c127892e6373 (The Guardian US)
+2026-08-04 15:51:10,262 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:51:10,278 INFO extracted 25 facts from ec801d7bd21c (The Guardian US)
+2026-08-04 15:51:29,191 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:51:29,193 INFO extracted 12 facts from 35424ae31522 (The Guardian US)
+2026-08-04 15:51:54,190 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:51:54,192 INFO extracted 12 facts from 58c6892613e3 (The Hill)
+2026-08-04 15:52:15,203 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:52:15,205 INFO extracted 12 facts from fb6ed050a6d0 (The Hill)
+2026-08-04 15:52:37,189 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:52:37,191 INFO extracted 12 facts from dc11d05e8a4c (The Hill)
+2026-08-04 15:52:52,118 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:52:52,126 INFO extracted 10 facts from 1bd04b2e18a7 (CBS News)
+2026-08-04 15:52:56,023 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:52:56,028 INFO extracted 3 facts from fdc3a0526c24 (CBS News)
+2026-08-04 15:53:15,527 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:53:15,540 INFO extracted 11 facts from 1d786b4eda8a (The Hill)
+2026-08-04 15:53:19,675 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:53:19,676 INFO extracted 4 facts from b97af1be8a60 (CBS News)
+2026-08-04 15:53:36,445 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:53:36,445 INFO extracted 12 facts from ae2f8d103ea5 (NBC News)
+2026-08-04 15:53:53,770 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:53:53,778 INFO extracted 10 facts from 8468197103bf (The Hill)
+2026-08-04 15:53:56,979 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:53:56,980 INFO extracted 3 facts from 114aca471100 (Wall Street Journal)
+2026-08-04 15:54:01,331 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:54:01,333 INFO extracted 3 facts from 83885e55b431 (Wall Street Journal)
+2026-08-04 15:54:05,384 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:54:05,384 INFO extracted 4 facts from 504d191c3bca (Wall Street Journal)
+2026-08-04 15:54:25,688 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:54:25,690 INFO extracted 11 facts from 7908b5f26d52 (NBC News)
+2026-08-04 15:54:31,076 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:54:31,077 INFO extracted 5 facts from d3f503743f2e (Wall Street Journal)
+2026-08-04 15:55:00,251 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:55:00,257 INFO extracted 16 facts from 39b994ca40b3 (The Guardian US)
+2026-08-04 15:55:04,799 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:55:04,800 INFO extracted 4 facts from 8732a4c83f34 (Wall Street Journal)
+2026-08-04 15:55:10,701 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:55:10,773 INFO extracted 4 facts from 313a2367f484 (CBS News)
+2026-08-04 15:55:14,044 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:55:14,044 INFO extracted 3 facts from b994c95c39c7 (Wall Street Journal)
+2026-08-04 15:55:41,584 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:55:41,585 INFO extracted 12 facts from 9dcf6a6e0a8a (The Guardian US)
+2026-08-04 15:55:45,786 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:55:45,788 INFO extracted 4 facts from 3069e06df541 (New York Times)
+2026-08-04 15:56:00,936 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:56:00,937 INFO extracted 8 facts from 801a3c649d36 (Fox News)
+2026-08-04 15:56:03,496 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:56:03,496 INFO extracted 2 facts from 13344e29c199 (New York Times)
+2026-08-04 15:56:31,622 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:56:31,624 INFO extracted 13 facts from 05ef22e9f5b9 (CBS News)
+2026-08-04 15:56:59,863 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:56:59,864 INFO extracted 12 facts from 03c401362bce (CBS News)
+2026-08-04 15:57:03,267 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:57:03,270 INFO extracted 3 facts from ec1f733c32bb (Washington Post)
+2026-08-04 15:57:06,847 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:57:06,848 INFO extracted 3 facts from 8a78d7bf10ba (NPR)
+2026-08-04 15:57:17,196 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:57:17,198 INFO extracted 6 facts from dfcf9d952e56 (NBC News)
+2026-08-04 15:57:22,111 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:57:22,112 INFO extracted 5 facts from 6b668138e20b (NPR)
+2026-08-04 15:57:27,441 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:57:27,441 INFO extracted 5 facts from 9cd1daa15e67 (Wall Street Journal)
+2026-08-04 15:57:46,368 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:57:46,369 INFO extracted 12 facts from 4119ca5c29c7 (The Guardian US)
+2026-08-04 15:57:49,773 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:57:49,773 INFO extracted 3 facts from e2a00ce1ad75 (Wall Street Journal)
+2026-08-04 15:58:18,705 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:58:18,707 INFO extracted 16 facts from 5d865b5f29f6 (The Guardian US)
+2026-08-04 15:58:24,652 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:58:24,654 INFO extracted 7 facts from 2b18b4d96376 (New York Times)
+2026-08-04 15:58:47,153 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:58:47,156 INFO extracted 12 facts from ccbb1eec5784 (The Hill)
+2026-08-04 15:59:07,741 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:59:07,743 INFO extracted 16 facts from 75f0572bea19 (The Hill)
+2026-08-04 15:59:17,431 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:59:17,431 INFO extracted 6 facts from 74843c4baf64 (CBS News)
+2026-08-04 15:59:21,029 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:59:21,030 INFO extracted 4 facts from 89b8bf774588 (Wall Street Journal)
+2026-08-04 15:59:47,602 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:59:47,606 INFO extracted 14 facts from b856615e7cce (NBC News)
+2026-08-04 15:59:53,106 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 15:59:53,107 INFO extracted 6 facts from 825e71c21697 (NPR)
+2026-08-04 16:00:09,970 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:00:09,970 INFO extracted 12 facts from add9c063b6ec (CBS News)
+2026-08-04 16:00:17,828 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:00:17,829 INFO extracted 7 facts from 5b689c673b3e (NPR)
+2026-08-04 16:00:51,077 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:00:51,086 INFO extracted 12 facts from 05aed435a175 (The Guardian US)
+2026-08-04 16:00:56,884 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:00:56,885 INFO extracted 4 facts from 53e39a3dd768 (NPR)
+2026-08-04 16:01:16,742 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:01:16,745 INFO extracted 12 facts from de6f49678033 (The Guardian US)
+2026-08-04 16:01:27,958 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:01:27,959 INFO extracted 7 facts from e2f45ffcdf52 (NBC News)
+2026-08-04 16:01:52,831 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:01:52,834 INFO extracted 14 facts from ca857dc57260 (ABC News)
+2026-08-04 16:03:45,827 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:03:45,833 INFO topic t7: 20 merged facts
+2026-08-04 16:06:58,631 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:06:58,643 ERROR failed to parse model JSON (ollama): Unterminated string starting at: line 296 column 15 (char 12718)
+2026-08-04 16:08:13,397 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:08:13,400 INFO topic t1: 30 merged facts
+2026-08-04 16:09:35,286 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:09:35,291 INFO topic t4: 36 merged facts
+2026-08-04 16:10:35,522 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:10:35,528 INFO topic t3: 23 merged facts
+2026-08-04 16:11:24,744 INFO HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 16:11:24,748 INFO topic t5: 20 merged facts
+2026-08-04 16:11:24,772 INFO ollama done: 5 topics, timings {'cluster_s': 61.6, 'extract_s': 827.8, 'corroborate_s': 571.9} -> /Users/benjaminwu/Developer/Song Translation /NewsDigest/compare/ollama.json
+2026-08-04 16:11:24,779 INFO report: /Users/benjaminwu/Developer/Song Translation /NewsDigest/compare/report.html

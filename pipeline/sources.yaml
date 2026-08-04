@@ -1,0 +1,28 @@
+# Outlet name -> list of RSS feed URLs.
+# Note: AP and Reuters discontinued their public RSS feeds, so this mix leans on
+# outlets that still publish them. Paywalled outlets (NYT, WSJ, WaPo) usually only
+# expose headline + summary text, so their articles contribute summary-level facts.
+sources:
+  NPR:
+    - https://feeds.npr.org/1001/rss.xml
+# CNN omitted: its public RSS feeds (rss.cnn.com) no longer receive new entries.
+  New York Times:
+    - https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+  Washington Post:
+    - https://feeds.washingtonpost.com/rss/national
+  Wall Street Journal:
+    - https://feeds.content.dowjones.io/public/rss/RSSWorldNews
+  Fox News:
+    - https://moxie.foxnews.com/google-publisher/latest.xml
+  ABC News:
+    - https://abcnews.go.com/abcnews/topstories
+  NBC News:
+    - https://feeds.nbcnews.com/nbcnews/public/news
+  CBS News:
+    - https://www.cbsnews.com/latest/rss/main
+  The Hill:
+    - https://thehill.com/news/feed/
+  Politico:
+    - https://rss.politico.com/politics-news.xml
+  The Guardian US:
+    - https://www.theguardian.com/us-news/rss

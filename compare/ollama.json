@@ -1,0 +1,1347 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T19:11:24+00:00",
+  "sources": [],
+  "topics": [
+    {
+      "id": "t7",
+      "title": "Drones in Healthcare and Technology",
+      "articles": [
+        {
+          "id": "d4548ee2f6b7",
+          "outlet": "Wall Street Journal",
+          "title": "Opinion | Trump’s Unpredictability Has Costs, Too",
+          "url": "https://www.wsj.com/opinion/trumps-unpredictability-has-costs-too-385b2c53",
+          "published_at": "2026-08-04T01:27:00+00:00"
+        },
+        {
+          "id": "e2536a092bf9",
+          "outlet": "NBC News",
+          "title": "Russia says a Ukrainian drone struck a busy beach, killing at least 7 people",
+          "url": "https://www.nbcnews.com/video/russia-says-a-ukrainian-drone-struck-a-busy-beach-killing-at-least-7-people-267725381725",
+          "published_at": "2026-08-04T11:33:24+00:00"
+        },
+        {
+          "id": "78b82cea699b",
+          "outlet": "NPR",
+          "title": "They're a world leader in using drones for healthcare. But drones can't do it all",
+          "url": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
+          "published_at": "2026-08-04T15:05:10+00:00"
+        },
+        {
+          "id": "0dd3fd9a3278",
+          "outlet": "NBC News",
+          "title": "Democrats Face Big Test in Critical Michigan Primary",
+          "url": "https://www.today.com/video/primaries-underway-in-5-states-here-are-key-contests-to-watch-267728453730",
+          "published_at": "2026-08-04T15:20:11+00:00"
+        },
+        {
+          "id": "1b48ccede1d7",
+          "outlet": "The Guardian US",
+          "title": "Washington state Democrat who flipped pro-Trump district faces tough primary",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/washington-state-primary-election",
+          "published_at": "2026-08-04T16:08:42+00:00"
+        },
+        {
+          "id": "795307ec8fda",
+          "outlet": "The Guardian US",
+          "title": "Asking Anthony Fauci for medical advice then calling for him to be jailed? Katie Miller is the latest Maga hypocrite | Arwa Mahdawi",
+          "url": "https://www.theguardian.com/commentisfree/2026/aug/04/anthony-fauci-katie-miller-maga-hypocrite",
+          "published_at": "2026-08-04T17:07:09+00:00"
+        },
+        {
+          "id": "d2b9c8e17ed9",
+          "outlet": "Wall Street Journal",
+          "title": "Deep U.S. Ties With Taiwan Are Surviving Pressure From China—and Trump",
+          "url": "https://www.wsj.com/world/asia/taiwan-us-military-training-china-7795c2f3",
+          "published_at": "2026-08-04T17:28:00+00:00"
+        },
+        {
+          "id": "1b257144d2b1",
+          "outlet": "The Guardian US",
+          "title": "US federal judge blocks New York’s ban on ICE officers wearing masks",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/judge-blocks-new-york-ban-ice-officers-masks",
+          "published_at": "2026-08-04T18:10:07+00:00"
+        },
+        {
+          "id": "0b42477547af",
+          "outlet": "New York Times",
+          "title": "Pacific Palisades Shopping Center Set to Reopen Following Palisades Fire",
+          "url": "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html",
+          "published_at": "2026-08-04T19:30:31+00:00"
+        },
+        {
+          "id": "d237dba6f86b",
+          "outlet": "New York Times",
+          "title": "An Invasive Mosquito Is Spreading With Alarming Speed, Threatening Africa’s Cities",
+          "url": "https://www.nytimes.com/2026/08/04/us/politics/mosquito-africa-anopheles-stephensi.html",
+          "published_at": "2026-08-04T19:37:08+00:00"
+        },
+        {
+          "id": "eb2875864e54",
+          "outlet": "New York Times",
+          "title": "These Employees Like Their A.I. Boss. Its Shop Is Kind of a Disaster.",
+          "url": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
+          "published_at": "2026-08-04T19:47:22+00:00"
+        },
+        {
+          "id": "c127892e6373",
+          "outlet": "The Guardian US",
+          "title": "Is Gianni Infantino’s time up as Fifa president? - The Latest",
+          "url": "https://www.theguardian.com/us-news/video/2026/aug/04/is-gianni-infantinos-time-up-as-fifa-president-the-latest",
+          "published_at": "2026-08-04T20:00:48+00:00"
+        },
+        {
+          "id": "ec801d7bd21c",
+          "outlet": "The Guardian US",
+          "title": "Vivek Ramaswamy is struggling to connect with voters. Can Ohio’s Indian community help?",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/vivek-ramaswamy-ohio-governor-race",
+          "published_at": "2026-08-04T20:08:10+00:00"
+        },
+        {
+          "id": "35424ae31522",
+          "outlet": "The Guardian US",
+          "title": "USMNT to face Mexico and Canada in friendlies to kick off 2030 World Cup cycle",
+          "url": "https://www.theguardian.com/football/2026/aug/04/usmnt-friendlies-mexico-canada",
+          "published_at": "2026-08-04T20:20:04+00:00"
+        },
+        {
+          "id": "58c6892613e3",
+          "outlet": "The Hill",
+          "title": "Todd Blanche’s nomination advances. What happens next?",
+          "url": "https://thehill.com/newsletters/1230-report/6008275-todd-blanch-nomination-advances-max-miller-emily-moreno-dispute/",
+          "published_at": "2026-08-04T20:30:00+00:00"
+        },
+        {
+          "id": "fb6ed050a6d0",
+          "outlet": "The Hill",
+          "title": "Congressional conflict of interest: Why did the STOCK Act fail?",
+          "url": "https://thehill.com/opinion/finance/6006403-tim-moore-lgi-homes-trades/",
+          "published_at": "2026-08-04T20:30:00+00:00"
+        },
+        {
+          "id": "dc11d05e8a4c",
+          "outlet": "The Hill",
+          "title": "Appeals court blocks Trump from rescinding green bank funds",
+          "url": "https://thehill.com/policy/energy-environment/6008344-trump-epa-biden-green-energy-funds/",
+          "published_at": "2026-08-04T20:54:17+00:00"
+        },
+        {
+          "id": "1bd04b2e18a7",
+          "outlet": "CBS News",
+          "title": "Family \"forever grateful\" after 10-year-old rescued from rip current by teen lifeguard",
+          "url": "https://www.cbsnews.com/news/10-year-old-rescued-rip-current-teen-lifeguard-california/",
+          "published_at": "2026-08-04T20:57:00+00:00"
+        },
+        {
+          "id": "fdc3a0526c24",
+          "outlet": "CBS News",
+          "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
+          "url": "https://www.cbsnews.com/video/ukraine-hits-russia-with-deadly-strike-near-busy-beach-officials-says/",
+          "published_at": "2026-08-04T21:09:00+00:00"
+        },
+        {
+          "id": "1d786b4eda8a",
+          "outlet": "The Hill",
+          "title": "Self-identified 'liberal' Democrats rise in new polling",
+          "url": "https://thehill.com/homenews/campaign/6008346-democrats-shift-more-liberal/",
+          "published_at": "2026-08-04T21:13:15+00:00"
+        },
+        {
+          "id": "b97af1be8a60",
+          "outlet": "CBS News",
+          "title": "Top AI company executives to meet with White House officials, according to reports",
+          "url": "https://www.cbsnews.com/video/top-ai-company-executives-to-meet-with-white-house-officials-reports-show/",
+          "published_at": "2026-08-04T21:14:06+00:00"
+        },
+        {
+          "id": "ae2f8d103ea5",
+          "outlet": "NBC News",
+          "title": "‘Game of Thrones’ author George R. R. Martin opens up about experiencing depression",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/george-r-r-martin-game-of-thrones-author-depression-sadness-rcna590805",
+          "published_at": "2026-08-04T21:28:37+00:00"
+        },
+        {
+          "id": "8468197103bf",
+          "outlet": "The Hill",
+          "title": "Multiple passengers receive medical care after 22 flights diverted from Denver",
+          "url": "https://thehill.com/policy/transportation/6008537-denver-flights-colorado-springs-airport-turbulence/",
+          "published_at": "2026-08-04T21:46:01+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Russia claimed a Ukrainian drone struck a busy beach, resulting in at least seven deaths and approximately 40 injuries, with three children among the casualties. The attack was described as a deliberate strike on civilians and occurred on August 4, 2026.",
+          "sources": [
+            "e2536a092bf9",
+            "fdc3a0526c24"
+          ]
+        },
+        {
+          "text": "A primary election is taking place in several states on August 4, 2026, with the Michigan primary being described as a key contest for the Democratic Party and the most expensive Democratic primary race ever.",
+          "sources": [
+            "0dd3fd9a3278"
+          ]
+        },
+        {
+          "text": "Marie Gluesenkamp Perez, a two-term Democratic congresswoman, is running in a highly contested primary election in Washington state's third district. She faces competition from Democrat Brent Hennrich and Republican John Braun, with six other candidates on the ballot.",
+          "sources": [
+            "1b48ccede1d7"
+          ]
+        },
+        {
+          "text": "Katie Miller, wife of Stephen Miller, is known for her support of mass deportation policies. She has left politics to start a podcast and has publicly called for Dr. Anthony Fauci to be jailed despite seeking his medical advice privately.",
+          "sources": [
+            "795307ec8fda"
+          ]
+        },
+        {
+          "text": "The United States is involved in training Taiwan's military personnel to defend themselves, a move that is facing pressure from China. The current U.S. administration is also exerting pressure on the relationship with Taiwan.",
+          "sources": [
+            "d2b9c8e17ed9"
+          ]
+        },
+        {
+          "text": "A New York law prohibiting ICE officers from wearing face coverings and requiring visible identification has been temporarily blocked by a federal judge. The ruling cited constitutional arguments and the Trump administration's likelihood of violating the supremacy clause of the U.S. Constitution.",
+          "sources": [
+            "1b257144d2b1"
+          ]
+        },
+        {
+          "text": "Rick Caruso is a billionaire real estate developer and former Los Angeles mayoral candidate who is reviving a property in Pacific Palisades, which is still surrounded by burned-out lots. A fire occurred in the Palisades area.",
+          "sources": [
+            "0b42477547af"
+          ]
+        },
+        {
+          "text": "A malaria-carrying mosquito is resistant to all insecticides and is spreading rapidly across Africa. Scientists are working to find methods to reduce the risk posed by the mosquito.",
+          "sources": [
+            "d237dba6f86b"
+          ]
+        },
+        {
+          "text": "A study was conducted on an AI bot managing a store in San Francisco. The AI bot is described as being friendly but lacking intelligence, and the store operated by the AI bot is characterized as experiencing difficulties.",
+          "sources": [
+            "eb2875864e54"
+          ]
+        },
+        {
+          "text": "Gianni Infantino's tenure as FIFA president is facing significant challenges, including the collapse of his plan to sell parts of the World Cup to private investors and broad demands across various regions for his removal.",
+          "sources": [
+            "c127892e6373"
+          ]
+        },
+        {
+          "text": "Vivek Ramaswamy has been visiting the Hindu Temple of Dayton in south-west Ohio with his parents for decades. He received Trump’s endorsement for the Ohio governor position in February 2025 and won 82% of the vote in the Republican primary election in May 2025.",
+          "sources": [
+            "ec801d7bd21c"
+          ]
+        },
+        {
+          "text": "The US men’s national team will begin the 2030 World Cup cycle with four friendly matches over 11 days, playing against Peru, Chile, Mexico, and Canada in matches hosted in US cities that did not host World Cup games this summer.",
+          "sources": [
+            "35424ae31522"
+          ]
+        },
+        {
+          "text": "The Senate Judiciary Committee advanced Todd Blanche's nomination to become the next permanent attorney general along party lines, with Senators John Cornyn and Thom Tillis changing their support after he agreed to permanently eliminate the $1.8 billion anti-weaponization fund.",
+          "sources": [
+            "58c6892613e3"
+          ]
+        },
+        {
+          "text": "Rep. Tim Moore of North Carolina purchased shares of LGI Homes in both September 2023 and March 2024, contributing to a stock price increase from approximately $39 to around $55. Moore voted in favor of the 21st Century ROAD to Housing Act.",
+          "sources": [
+            "fb6ed050a6d0"
+          ]
+        },
+        {
+          "text": "A federal appeals court blocked the Trump administration from rescinding climate funds allocated under the Inflation Reduction Act, reinstating a previous preliminary injunction that prevents the Environmental Protection Agency from reclaiming the funds.",
+          "sources": [
+            "dc11d05e8a4c"
+          ]
+        },
+        {
+          "text": "A 10-year-old boy was rescued from a rip current off the coast of Santa Cruz, California. The boy, Nathaniel Rai, was pulled into the water after tripping while on the shore and was unconscious and not breathing when a 16-year-old lifeguard named Ryder Williams intervened.",
+          "sources": [
+            "1bd04b2e18a7"
+          ]
+        },
+        {
+          "text": "A new survey indicates that self-identified liberal Democrats now constitute a majority of the Democratic Party. The Reuters/Ipsos poll found that 71 percent of Democrats describe themselves as 'liberal,' an increase from 55 percent in 2012.",
+          "sources": [
+            "1d786b4eda8a"
+          ]
+        },
+        {
+          "text": "Top executives from leading artificial intelligence companies are scheduled to meet with White House officials.",
+          "sources": [
+            "b97af1be8a60"
+          ]
+        },
+        {
+          "text": "George R. R. Martin, the author of the 'Game of Thrones' book series, mentioned experiencing sadness and depression. He has been away from updating fans through his blog due to personal struggles and acknowledged criticism from readers regarding the delayed publication of 'The Winds of Winter'.",
+          "sources": [
+            "ae2f8d103ea5"
+          ]
+        },
+        {
+          "text": "Multiple passengers required medical care after 22 flights were diverted from Denver due to significant turbulence. The Colorado Springs Municipal Airport confirmed that 22 aircraft, including four international flights, were diverted to the city, with several passengers reporting medical concerns and at least one being taken to the hospital.",
+          "sources": [
+            "8468197103bf"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8
+        ],
+        [
+          9,
+          10,
+          11
+        ],
+        [
+          12,
+          13,
+          14
+        ],
+        [
+          15,
+          16,
+          17
+        ],
+        [
+          18,
+          19
+        ]
+      ]
+    },
+    {
+      "id": "t1",
+      "title": "Spokane Wildfires and Arson Arrest",
+      "articles": [
+        {
+          "id": "ec1f733c32bb",
+          "outlet": "Washington Post",
+          "title": "They fled by boat to the middle of Lake Spokane as wildfires closed in",
+          "url": "https://www.washingtonpost.com/nation/2026/08/04/they-fled-by-boat-middle-lake-spokane-wildfires-closed/",
+          "published_at": "2026-08-04T14:00:01+00:00"
+        },
+        {
+          "id": "8a78d7bf10ba",
+          "outlet": "NPR",
+          "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
+          "url": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
+          "published_at": "2026-08-04T14:56:56+00:00"
+        },
+        {
+          "id": "dfcf9d952e56",
+          "outlet": "NBC News",
+          "title": "West Coast Wildfires Rage on as Arson Suspect Arrested",
+          "url": "https://www.today.com/video/arson-arrest-made-as-wildfires-rage-across-the-west-267728453725",
+          "published_at": "2026-08-04T15:19:20+00:00"
+        },
+        {
+          "id": "6b668138e20b",
+          "outlet": "NPR",
+          "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+          "url": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+          "published_at": "2026-08-04T15:29:23+00:00"
+        },
+        {
+          "id": "9cd1daa15e67",
+          "outlet": "Wall Street Journal",
+          "title": "Best High-Yield Savings Accounts for August 2026: Up to 4.50%",
+          "url": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
+          "published_at": "2026-08-04T17:14:00+00:00"
+        },
+        {
+          "id": "4119ca5c29c7",
+          "outlet": "The Guardian US",
+          "title": "Man charged in Washington state with starting largest wildfire in the area",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/washington-state-arson-charge-old-trails-wildfire",
+          "published_at": "2026-08-04T17:25:22+00:00"
+        },
+        {
+          "id": "e2a00ce1ad75",
+          "outlet": "Wall Street Journal",
+          "title": "Hormuz Opening Uncertain After New Strike",
+          "url": "https://www.wsj.com/world/middle-east/hormuz-opening-uncertain-after-new-strike-hurdles-in-talks-e2dfd2ce",
+          "published_at": "2026-08-04T19:26:00+00:00"
+        },
+        {
+          "id": "5d865b5f29f6",
+          "outlet": "The Guardian US",
+          "title": "Ohio Republican Max Miller faces growing calls to resign over domestic abuse allegations",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/max-miller-resign-domestic-abuse-allegations",
+          "published_at": "2026-08-04T19:49:13+00:00"
+        },
+        {
+          "id": "2b18b4d96376",
+          "outlet": "New York Times",
+          "title": "Man Arrested on Suspicion of Arson in Spokane Wildfire",
+          "url": "https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html",
+          "published_at": "2026-08-04T20:39:56+00:00"
+        },
+        {
+          "id": "ccbb1eec5784",
+          "outlet": "The Hill",
+          "title": "Francesca Hong defends call to 'cancel Thanksgiving,' but says 'views can evolve'",
+          "url": "https://thehill.com/homenews/campaign/6008235-hong-defends-thanksgiving-post/",
+          "published_at": "2026-08-04T20:42:00+00:00"
+        },
+        {
+          "id": "75f0572bea19",
+          "outlet": "The Hill",
+          "title": "Grisham files restraining order against Max Miller",
+          "url": "https://thehill.com/homenews/house/6008305-stephanie-grisham-max-miller-lawsuit/",
+          "published_at": "2026-08-04T20:57:24+00:00"
+        },
+        {
+          "id": "74843c4baf64",
+          "outlet": "CBS News",
+          "title": "Latest news on Lindsay Clancy murder trial as stunning expert testimony continues",
+          "url": "https://www.cbsnews.com/video/latest-news-lindsay-clancy-murder-trial/",
+          "published_at": "2026-08-04T21:22:55+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "A man was arrested on suspicion of arson related to a wildfire in Washington state.",
+          "sources": [
+            "2b18b4d96376",
+            "4119ca5c29c7",
+            "6b668138e20b",
+            "8a78d7bf10ba",
+            "dfcf9d952e56",
+            "ec1f733c32bb"
+          ]
+        },
+        {
+          "text": "The wildfire resulted in the destruction of hundreds of structures.",
+          "sources": [
+            "4119ca5c29c7",
+            "8a78d7bf10ba",
+            "ec1f733c32bb"
+          ]
+        },
+        {
+          "text": "The wildfires in Spokane, Washington, have destroyed hundreds of homes.",
+          "sources": [
+            "8a78d7bf10ba"
+          ]
+        },
+        {
+          "text": "The wildfires in Spokane, Washington, have displaced nearly a quarter of the city's residents.",
+          "sources": [
+            "8a78d7bf10ba"
+          ]
+        },
+        {
+          "text": "Wildfires are currently burning out of control across the West Coast.",
+          "sources": [
+            "dfcf9d952e56"
+          ]
+        },
+        {
+          "text": "A rare firenado, a tornado-like phenomenon of flames, was captured on video.",
+          "sources": [
+            "dfcf9d952e56"
+          ]
+        },
+        {
+          "text": "The arrest was announced by local police authorities.",
+          "sources": [
+            "dfcf9d952e56"
+          ]
+        },
+        {
+          "text": "NBC's Morgan Chesky and TODAY's Al Roker provided coverage on the wildfires and the arrest.",
+          "sources": [
+            "dfcf9d952e56"
+          ]
+        },
+        {
+          "text": "The incident occurred on August 4, 2026.",
+          "sources": [
+            "dfcf9d952e56"
+          ]
+        },
+        {
+          "text": "A man has been arrested in relation to a fire in Spokane.",
+          "sources": [
+            "6b668138e20b"
+          ]
+        },
+        {
+          "text": "The fire in Spokane is connected to the individual who was arrested.",
+          "sources": [
+            "6b668138e20b"
+          ]
+        },
+        {
+          "text": "A man in Washington state was charged with starting a wildfire that consumed nearly 4,000 acres.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Aaron F Farinacci, 37, was arrested and charged with first-degree arson for the Old Trails fire.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "The Old Trails fire was identified as the largest of three wildfires burning in the region.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Aaron F Farinacci was found in possession of waterproof matches and a butane lighter.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Witnesses identified Farinacci as being near the location where the fire began over the weekend.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "John Nowels, the Spokane county sheriff, stated that citizens helped locate Farinacci quickly.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Farinacci had a prior conviction in Arizona for manslaughter, involving his father's death in 2010.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Farinacci was expected to make his first court appearance on Tuesday.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "The Old Trails fire started on Saturday northwest of downtown Spokane and crossed the Spokane river.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Over 67,000 people were evacuated due to the three wildfires, which burned about 16 square miles by early Tuesday.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Washington state's congressional delegation requested an expedited emergency declaration from the president.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "More than 1,000 firefighters, including those from out of state, were deployed to combat the wildfires.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Aaron Farinacci, a 37-year-old man, was arrested.",
+          "sources": [
+            "2b18b4d96376"
+          ]
+        },
+        {
+          "text": "The arrest was based on suspicion of arson.",
+          "sources": [
+            "2b18b4d96376"
+          ]
+        },
+        {
+          "text": "The incident is linked to the Spokane wildfire.",
+          "sources": [
+            "2b18b4d96376"
+          ]
+        },
+        {
+          "text": "A witness reported seeing Farinacci kneeling near the ignition site.",
+          "sources": [
+            "2b18b4d96376"
+          ]
+        },
+        {
+          "text": "Officials provided information about the arrest.",
+          "sources": [
+            "2b18b4d96376"
+          ]
+        },
+        {
+          "text": "Winds were forecast to increase on Friday and Saturday.",
+          "sources": [
+            "2b18b4d96376"
+          ]
+        },
+        {
+          "text": "The increased winds are expected to bring back extremely critical fire weather conditions.",
+          "sources": [
+            "2b18b4d96376"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          0,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          23,
+          24,
+          25
+        ],
+        [
+          1,
+          2,
+          3,
+          19,
+          20,
+          22,
+          26,
+          27
+        ],
+        [
+          4,
+          8,
+          21,
+          28,
+          29
+        ],
+        [
+          5,
+          6,
+          7
+        ]
+      ]
+    },
+    {
+      "id": "t4",
+      "title": "Europe Heat Wave and Drought Impacts",
+      "articles": [
+        {
+          "id": "89b8bf774588",
+          "outlet": "Wall Street Journal",
+          "title": "Ships Can’t Move and Power Plants Shut Down as Drought Saps Europe’s Rivers",
+          "url": "https://www.wsj.com/world/europe/ships-cant-move-and-power-plants-shut-down-as-drought-saps-europes-rivers-8b083c62",
+          "published_at": "2026-08-03T22:56:00+00:00"
+        },
+        {
+          "id": "b856615e7cce",
+          "outlet": "NBC News",
+          "title": "East Asia is baking in ‘cruelly hot’ summer",
+          "url": "https://www.nbcnews.com/world/asia/deadly-heat-wave-japan-south-korea-rcna590691",
+          "published_at": "2026-08-04T14:52:45+00:00"
+        },
+        {
+          "id": "825e71c21697",
+          "outlet": "NPR",
+          "title": "Europe heat wave fuels drought, fires and energy fears",
+          "url": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
+          "published_at": "2026-08-04T20:37:38+00:00"
+        },
+        {
+          "id": "add9c063b6ec",
+          "outlet": "CBS News",
+          "title": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
+          "url": "https://www.cbsnews.com/news/max-miller-trump-reelection-white-house/",
+          "published_at": "2026-08-04T22:02:02+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "A prolonged dry spell is affecting Europe's rivers.",
+          "sources": [
+            "89b8bf774588"
+          ]
+        },
+        {
+          "text": "The drought is causing ships to be unable to move.",
+          "sources": [
+            "89b8bf774588"
+          ]
+        },
+        {
+          "text": "Power plants in Europe are experiencing shutdowns due to the drought.",
+          "sources": [
+            "89b8bf774588"
+          ]
+        },
+        {
+          "text": "The situation is contributing to challenges for the region's economy.",
+          "sources": [
+            "89b8bf774588"
+          ]
+        },
+        {
+          "text": "A heat wave is affecting large parts of East Asia, with South Korea experiencing its highest temperature on record.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "Extreme heat in South Korea has been linked to 19 deaths since mid-May.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "President Lee Jae Myung declared the extreme weather a national disaster and called for a fundamental overhaul of the national crisis system.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "On Sunday, temperatures reached 42.5 degrees Celsius in Yangsan, South Korea, the highest in 122 years of record-keeping.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "High temperatures have spread northward in South Korea, reaching Seoul for the first time with a new 'severe' heat wave warning issued for the entire city.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "Residents in the Seoul metropolitan area, home to over 26 million people, were advised to stay indoors and check on vulnerable groups.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "North Korea is also experiencing soaring temperatures, with the state newspaper urging residents to avoid outdoor activities and protect crops.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "In Japan, extreme heat has complicated disaster relief efforts following a 7.1-magnitude earthquake in Kumamoto on July 28.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "Over 40,000 households in Japan remain without water, and thousands are staying in emergency shelters or cars due to fears of further earthquakes.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "A woman in her 70s died of apparent heatstroke while sheltering in her car after the earthquake, raising the death toll to 38.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "Kumamoto Governor Takashi Kimura called the woman’s death heartbreaking and urged displaced residents to use air conditioning in their cars or move to evacuation centers.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "Japanese officials reported that three lions at Tama Zoological Park died from suspected heat-related causes, with dehydration and multiple organ failure identified in all three.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "The Japan Meteorological Agency introduced the term 'kokushobi' or 'cruely hot day' for temperatures over 40 C, following public input.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "The highest temperature ever recorded in Japan was 41.8 C in Isesaki last August.",
+          "sources": [
+            "b856615e7cce"
+          ]
+        },
+        {
+          "text": "A heat wave in Europe is contributing to drought conditions.",
+          "sources": [
+            "825e71c21697"
+          ]
+        },
+        {
+          "text": "The heat wave has led to an increase in wildfires, particularly in Greece.",
+          "sources": [
+            "825e71c21697"
+          ]
+        },
+        {
+          "text": "Wildfires in Greece have resulted in fatalities.",
+          "sources": [
+            "825e71c21697"
+          ]
+        },
+        {
+          "text": "The heat wave is causing concerns about the cooling capabilities of nuclear reactors.",
+          "sources": [
+            "825e71c21697"
+          ]
+        },
+        {
+          "text": "Nazi-era wrecks have been discovered emerging from the Danube River.",
+          "sources": [
+            "825e71c21697"
+          ]
+        },
+        {
+          "text": "The current heat wave is revealing historical remnants from the Nazi era.",
+          "sources": [
+            "825e71c21697"
+          ]
+        },
+        {
+          "text": "Trump and White House officials privately hope Rep. Max Miller will withdraw from his reelection bid.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        },
+        {
+          "text": "Trump called Miller on Monday and discussed concerns about his reelection bid following allegations of assault against Miller's ex-wife and daughter.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        },
+        {
+          "text": "Miller has denied the allegations and informed Trump he has no intention of leaving the race.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        },
+        {
+          "text": "Miller must withdraw by 4 p.m. Wednesday to allow Republicans to replace him on the ballot for November.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        },
+        {
+          "text": "Sources indicate that the president and some White House aides have privately expressed a desire for Miller to exit the race.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        },
+        {
+          "text": "Miller announced plans to file paperwork for a congressional ethics investigation to clear his name.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        },
+        {
+          "text": "Miller stated he has nothing to hide and will provide all necessary documents for the investigation.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        },
+        {
+          "text": "Miller emphasized that his facts remain unchanged despite evolving accusations.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        },
+        {
+          "text": "Trump described Miller as a 'very good person' and suggested the families involved should resolve the situation.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        },
+        {
+          "text": "Miller stated that dropping out of the race would indicate a failure of American values and that he is innocent of the allegations.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        },
+        {
+          "text": "Emily Moreno, Miller's ex-wife, is the daughter of Ohio GOP Sen. Bernie Moreno.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        },
+        {
+          "text": "Sen. Bernie Moreno stated that Miller should not serve in the House of Representatives and needs serious psychological help.",
+          "sources": [
+            "add9c063b6ec"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          0,
+          1,
+          2,
+          3,
+          18,
+          19,
+          20,
+          21
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        [
+          22,
+          23
+        ],
+        [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      ]
+    },
+    {
+      "id": "t3",
+      "title": "Jeffrey Epstein and Bank Involvement",
+      "articles": [
+        {
+          "id": "5b689c673b3e",
+          "outlet": "NPR",
+          "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
+          "url": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
+          "published_at": "2026-08-04T13:00:00+00:00"
+        },
+        {
+          "id": "05aed435a175",
+          "outlet": "The Guardian US",
+          "title": "Safety, freedom and no misgendering: inside the Texas summer camp for trans kids",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/texas-summer-camp-trans-kids",
+          "published_at": "2026-08-04T18:00:03+00:00"
+        },
+        {
+          "id": "53e39a3dd768",
+          "outlet": "NPR",
+          "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
+          "url": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
+          "published_at": "2026-08-04T21:43:06+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Senate Democrats released a report alleging that major banks did not report suspicious financial transactions linked to Jeffrey Epstein.",
+          "sources": [
+            "53e39a3dd768"
+          ]
+        },
+        {
+          "text": "The report claims banks ignored or failed to act on unusual money movements associated with Jeffrey Epstein.",
+          "sources": [
+            "53e39a3dd768"
+          ]
+        },
+        {
+          "text": "The accusations state that banks did not notify authorities about these transactions until after Epstein's arrest in 2019.",
+          "sources": [
+            "53e39a3dd768"
+          ]
+        },
+        {
+          "text": "The report was issued by Senate Democrats as part of an investigation into financial institutions' conduct.",
+          "sources": [
+            "53e39a3dd768"
+          ]
+        },
+        {
+          "text": "Democratic primary elections in Michigan, Wisconsin, and Minnesota are being considered a test case for progressive candidates.",
+          "sources": [
+            "5b689c673b3e"
+          ]
+        },
+        {
+          "text": "These primary elections are framed as a way to determine if progressive candidates can achieve victory in competitive states.",
+          "sources": [
+            "5b689c673b3e"
+          ]
+        },
+        {
+          "text": "The focus is on assessing the concept of electability within the context of these states.",
+          "sources": [
+            "5b689c673b3e"
+          ]
+        },
+        {
+          "text": "The Midwest is highlighted as a region where progressive candidates are facing significant challenges.",
+          "sources": [
+            "5b689c673b3e"
+          ]
+        },
+        {
+          "text": "The elections are described as high stakes for progressive candidates.",
+          "sources": [
+            "5b689c673b3e"
+          ]
+        },
+        {
+          "text": "The outcomes of these elections are seen as indicative of broader political trends.",
+          "sources": [
+            "5b689c673b3e"
+          ]
+        },
+        {
+          "text": "The article suggests that the results may influence understanding of what electability means in contemporary politics.",
+          "sources": [
+            "5b689c673b3e"
+          ]
+        },
+        {
+          "text": "Alastair Mendoza, a 17-year-old trans boy, felt comfortable swimming in public for the first time at Color Splash Out, a summer camp for queer and trans youth in Texas.",
+          "sources": [
+            "05aed435a175"
+          ]
+        },
+        {
+          "text": "Color Splash Out is a four-day summer camp open to queer and trans youth in Texas, providing a space for play, creation, and connection without scrutiny.",
+          "sources": [
+            "05aed435a175"
+          ]
+        },
+        {
+          "text": "The camp is led by Yadi Martínez-Reyna, a non-binary minister, who transitioned the inclusive religious practice into a secular, non-denominational space.",
+          "sources": [
+            "05aed435a175"
+          ]
+        },
+        {
+          "text": "Many attendees of Color Splash Out this year come from the Rio Grande Valley, a majority Latino region that is one of the poorest areas in the US.",
+          "sources": [
+            "05aed435a175"
+          ]
+        },
+        {
+          "text": "Texas passed seven anti-trans bills last year, including a bathroom ban in government buildings and prohibitions on amending gender identity in certain records.",
+          "sources": [
+            "05aed435a175"
+          ]
+        },
+        {
+          "text": "LGBTQ+ youth who have at least one LGBTQ-affirming space report lower rates of attempting suicide, but there are no queer youth organizations in the Rio Grande Valley.",
+          "sources": [
+            "05aed435a175"
+          ]
+        },
+        {
+          "text": "At Color Splash Out, campers pay what they can, meaning many pay nothing, and the venue location changes every year due to safety concerns and a limited budget.",
+          "sources": [
+            "05aed435a175"
+          ]
+        },
+        {
+          "text": "Campers at Color Splash Out are assigned cabins, referred to as 'houses,' named each summer by the campers, with examples including the Glitter Gorgons and the Rainbow Legends.",
+          "sources": [
+            "05aed435a175"
+          ]
+        },
+        {
+          "text": "Campers at Color Splash Out are encouraged to share their preferred names and pronouns at the beginning of the camp, with some expressing excitement about being addressed by their chosen names in public.",
+          "sources": [
+            "05aed435a175"
+          ]
+        },
+        {
+          "text": "Color Splash Out invites former campers to become 'fellows' once they turn 18, helping to plan camps, fundraise, and mentor younger participants.",
+          "sources": [
+            "05aed435a175"
+          ]
+        },
+        {
+          "text": "Since federal funding cuts for non-profits, Color Splash Out has operated more like a mutual aid project, using recycled supplies and donations from local school librarians.",
+          "sources": [
+            "05aed435a175"
+          ]
+        },
+        {
+          "text": "Yadi Martínez-Reyna, the camp's director, faced doxxing, lost a teaching job in Boerne, Texas, for being trans, and has experienced harassment and physical assaults.",
+          "sources": [
+            "05aed435a175"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        [
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      ]
+    },
+    {
+      "id": "t5",
+      "title": "U.S. Attorney General Nomination",
+      "articles": [
+        {
+          "id": "de6f49678033",
+          "outlet": "The Guardian US",
+          "title": "Inside a Texas summer camp for LGBTQ+ kids – in pictures",
+          "url": "https://www.theguardian.com/us-news/gallery/2026/aug/04/texas-summer-camp-trans-kids-gallery",
+          "published_at": "2026-08-04T18:00:03+00:00"
+        },
+        {
+          "id": "e2f45ffcdf52",
+          "outlet": "NBC News",
+          "title": "Senate Judiciary Committee advances Todd Blanche's attorney general nomination",
+          "url": "https://www.nbcnews.com/video/senate-judiciary-committee-advances-todd-blanche-s-attorney-general-nomination-267742277912",
+          "published_at": "2026-08-04T19:17:50+00:00"
+        },
+        {
+          "id": "ca857dc57260",
+          "outlet": "ABC News",
+          "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
+          "url": "https://abcnews.com/Politics/senate-judiciary-committee-advances-todd-blanches-nomination-attorney/story?id=135353842",
+          "published_at": "2026-08-04T21:19:47+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "The Senate Judiciary Committee voted to advance Todd Blanche's nomination for the position of attorney general.",
+          "sources": [
+            "ca857dc57260",
+            "de6f49678033",
+            "e2f45ffcdf52"
+          ]
+        },
+        {
+          "text": "The nomination was supported by Republicans on the Senate Judiciary Committee.",
+          "sources": [
+            "ca857dc57260",
+            "e2f45ffcdf52"
+          ]
+        },
+        {
+          "text": "The nomination will now proceed to a full Senate vote.",
+          "sources": [
+            "ca857dc57260",
+            "e2f45ffcdf52"
+          ]
+        },
+        {
+          "text": "Todd Blanche is currently serving as acting attorney general.",
+          "sources": [
+            "ca857dc57260",
+            "e2f45ffcdf52"
+          ]
+        },
+        {
+          "text": "The vote occurred on Tuesday with a result of 12-10 along party lines.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "All Republican senators supported Blanche's nomination, while all Democratic senators opposed it.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "Republican Senator John Cornyn supported Blanche after an agreement was reached that clarified the scope of President Trump's IRS immunity deal and formally rescinded the 'Anti-Weaponization Fund'.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "Republican Senator Thom Tillis supported Blanche after the agreement was reached, stating that the fund was no longer relevant and had been rescinded.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "The agreement reached does not prevent the potential resurrection of the 'Anti-Weaponization Fund' under a different name or method.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "Senate Judiciary Committee Chairman Chuck Grassley acknowledged the efforts of Cornyn and Tillis in securing the agreement and stated that the issue had been resolved.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "Democratic Senator Chris Coons argued that Blanche's involvement in creating the 'Anti-Weaponization Fund' should disqualify him from the attorney general position.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "Blanche defended his role by stating that providing counsel to President Trump did not make him a 'yes man'.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "Several Democratic senators expressed concerns about Blanche's suitability for the attorney general position.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "Democratic Senator Sheldon Whitehouse described the advancement of Blanche's nomination as a 'sad and embarrassing day' for the committee.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "Democratic Senator Cory Booker warned that Blanche would serve as 'Trump's sword against his adversaries and shield against any scrutiny'.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "Blanche's nomination is now ready for consideration on the Senate floor.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "The Senate can take a procedural vote on Blanche's nomination as early as Friday, with a final confirmation vote expected on Saturday.",
+          "sources": [
+            "ca857dc57260"
+          ]
+        },
+        {
+          "text": "The advancement of the nomination was reported by NBC News.",
+          "sources": [
+            "e2f45ffcdf52"
+          ]
+        },
+        {
+          "text": "The article mentions the involvement of NBC News' Scott Wong and Gabe Gutierrez in providing details about the nomination process.",
+          "sources": [
+            "e2f45ffcdf52"
+          ]
+        },
+        {
+          "text": "The article was published on August 4, 2026.",
+          "sources": [
+            "e2f45ffcdf52"
+          ]
+        }
+      ],
+      "paragraphs": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8,
+          9
+        ],
+        [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        [
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      ]
+    }
+  ],
+  "comparison_meta": {
+    "backend": "ollama",
+    "model": "qwen3:8b",
+    "timings": {
+      "cluster_s": 61.6,
+      "extract_s": 827.8,
+      "corroborate_s": 571.9
+    },
+    "articles_in": 111
+  }
+}

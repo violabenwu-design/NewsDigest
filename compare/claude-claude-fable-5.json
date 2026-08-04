@@ -1,0 +1,592 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T19:49:12+00:00",
+  "sources": [],
+  "topics": [
+    {
+      "id": "t1",
+      "title": "Spokane wildfires and arson suspect arrest in Washington state",
+      "articles": [
+        {
+          "id": "ec1f733c32bb",
+          "outlet": "Washington Post",
+          "title": "They fled by boat to the middle of Lake Spokane as wildfires closed in",
+          "url": "https://www.washingtonpost.com/nation/2026/08/04/they-fled-by-boat-middle-lake-spokane-wildfires-closed/",
+          "published_at": "2026-08-04T14:00:01+00:00"
+        },
+        {
+          "id": "8a78d7bf10ba",
+          "outlet": "NPR",
+          "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
+          "url": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
+          "published_at": "2026-08-04T14:56:56+00:00"
+        },
+        {
+          "id": "dfcf9d952e56",
+          "outlet": "NBC News",
+          "title": "West Coast Wildfires Rage on as Arson Suspect Arrested",
+          "url": "https://www.today.com/video/arson-arrest-made-as-wildfires-rage-across-the-west-267728453725",
+          "published_at": "2026-08-04T15:19:20+00:00"
+        },
+        {
+          "id": "4119ca5c29c7",
+          "outlet": "The Guardian US",
+          "title": "Man charged in Washington state with starting largest wildfire in the area",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/washington-state-arson-charge-old-trails-wildfire",
+          "published_at": "2026-08-04T17:25:22+00:00"
+        },
+        {
+          "id": "2b18b4d96376",
+          "outlet": "New York Times",
+          "title": "Man Arrested on Suspicion of Arson in Spokane Wildfire",
+          "url": "https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html",
+          "published_at": "2026-08-04T20:39:56+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Aaron Farinacci, 37, of Spokane, was arrested and charged with first-degree arson on suspicion of setting the Old Trails wildfire in Spokane, Washington.",
+          "sources": [
+            "2b18b4d96376",
+            "4119ca5c29c7",
+            "8a78d7bf10ba",
+            "dfcf9d952e56",
+            "ec1f733c32bb"
+          ]
+        },
+        {
+          "text": "At least one witness reported seeing Farinacci kneeling in grass near the location where the fire began.",
+          "sources": [
+            "2b18b4d96376",
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Three wildfires occurred in the Spokane area: the Old Trail, Autumn Lane and Fairview fires.",
+          "sources": [
+            "4119ca5c29c7",
+            "8a78d7bf10ba"
+          ]
+        },
+        {
+          "text": "The wildfires have destroyed hundreds of structures.",
+          "sources": [
+            "8a78d7bf10ba",
+            "ec1f733c32bb"
+          ]
+        },
+        {
+          "text": "When arrested, Farinacci was found in possession of waterproof matches and a butane lighter.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Spokane County Sheriff John Nowels said Farinacci has a prior manslaughter conviction in Arizona.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Nowels said Farinacci was expected to make his first court appearance on Tuesday.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "The Old Trails fire started Saturday north-west of downtown Spokane and has burned almost 4,000 acres.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "The wildfires in Spokane have displaced nearly a quarter of the city's residents.",
+          "sources": [
+            "8a78d7bf10ba"
+          ]
+        },
+        {
+          "text": "More than 67,000 people were ordered to evacuate due to the Old Trail, Autumn Lane and Fairview fires, which by early Tuesday had burned about 16 square miles of Spokane County.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Some evacuation orders in the Spokane area were downgraded late on Monday.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "At least 15 wildfires covering at least 390 square miles were burning across Washington state.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Dozens of wildfires were burning across the western United States.",
+          "sources": [
+            "dfcf9d952e56"
+          ]
+        },
+        {
+          "text": "Micaela Jaime and her family fled by boat to the middle of Lake Spokane as wildfires approached.",
+          "sources": [
+            "ec1f733c32bb"
+          ]
+        },
+        {
+          "text": "A rotating column of flames, referred to as a firenado, was recorded on video during the wildfires.",
+          "sources": [
+            "dfcf9d952e56"
+          ]
+        },
+        {
+          "text": "Washington state's congressional delegation wrote to President Donald Trump on Monday requesting approval of an expedited emergency declaration.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Washington Governor Bob Ferguson issued an emergency declaration and said he spoke with the White House over the weekend.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Cpl Mark Gregory of the Spokane sheriff's office said on Monday that 14 people remained unaccounted for, and that no deaths or major injuries had been reported.",
+          "sources": [
+            "4119ca5c29c7"
+          ]
+        },
+        {
+          "text": "Forecasts predicted increasing winds on Friday and Saturday in the area.",
+          "sources": [
+            "2b18b4d96376"
+          ]
+        },
+        {
+          "text": "The NBC News report on the wildfires was dated August 4, 2026.",
+          "sources": [
+            "dfcf9d952e56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t6",
+      "title": "Drone strike on beach in Russian Black Sea resort town",
+      "articles": [
+        {
+          "id": "e2536a092bf9",
+          "outlet": "NBC News",
+          "title": "Russia says a Ukrainian drone struck a busy beach, killing at least 7 people",
+          "url": "https://www.nbcnews.com/video/russia-says-a-ukrainian-drone-struck-a-busy-beach-killing-at-least-7-people-267725381725",
+          "published_at": "2026-08-04T11:33:24+00:00"
+        },
+        {
+          "id": "52589533f44a",
+          "outlet": "NBC News",
+          "title": "Video shows moment drone burst into fireball on Russian beach",
+          "url": "https://www.nbcnews.com/world/europe/russia-ukraine-war-drone-black-sea-resort-beach-holiday-goers-killed-rcna590723",
+          "published_at": "2026-08-04T15:58:05+00:00"
+        },
+        {
+          "id": "fdc3a0526c24",
+          "outlet": "CBS News",
+          "title": "Ukraine hits Russia with deadly strike near busy beach, officials say",
+          "url": "https://www.cbsnews.com/video/ukraine-hits-russia-with-deadly-strike-near-busy-beach-officials-says/",
+          "published_at": "2026-08-04T21:09:00+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Russian officials said a drone struck near a busy beach in the Black Sea resort town of Gelendzhik on Monday, causing an explosion that killed people.",
+          "sources": [
+            "52589533f44a",
+            "e2536a092bf9",
+            "fdc3a0526c24"
+          ]
+        },
+        {
+          "text": "Russian officials said seven people were killed in the beach explosion, including three children.",
+          "sources": [
+            "52589533f44a",
+            "e2536a092bf9"
+          ]
+        },
+        {
+          "text": "Russian officials said dozens of people were injured in the beach explosion, with reported figures ranging from about 40 to 58.",
+          "sources": [
+            "52589533f44a",
+            "e2536a092bf9"
+          ]
+        },
+        {
+          "text": "Russian officials, including Krasnodar region governor Veniamin Kondratyev in a Telegram post, characterized the incident as a deliberate Ukrainian strike on civilians unconnected to military infrastructure.",
+          "sources": [
+            "52589533f44a",
+            "e2536a092bf9"
+          ]
+        },
+        {
+          "text": "Russia subsequently launched aerial strikes on Ukraine after the beach explosion.",
+          "sources": [
+            "52589533f44a"
+          ]
+        },
+        {
+          "text": "NBC News verified video of the Gelendzhik explosion that was shared on social media.",
+          "sources": [
+            "52589533f44a"
+          ]
+        },
+        {
+          "text": "Ukrainian officials neither confirmed nor denied responsibility for the Gelendzhik explosion.",
+          "sources": [
+            "52589533f44a"
+          ]
+        },
+        {
+          "text": "Russian Foreign Ministry spokesperson Maria Zakharova said that between July 24 and July 31, at least 61 people were killed and more than 320 wounded by Ukrainian shelling and drone strikes.",
+          "sources": [
+            "52589533f44a"
+          ]
+        },
+        {
+          "text": "Andriy Kovalenko, head of the Ukrainian National Security and Defense Council's Centre for Countering Disinformation, said Russian air defense shot down a drone onto people on the beach.",
+          "sources": [
+            "52589533f44a"
+          ]
+        },
+        {
+          "text": "Kovalenko said in a statement that Putin was responsible for the deaths because he started the war.",
+          "sources": [
+            "52589533f44a"
+          ]
+        },
+        {
+          "text": "Aleksandr Drozdenko, governor of the Leningrad region, said early Tuesday that a separate attack had hit a warehouse in Leningrad.",
+          "sources": [
+            "52589533f44a"
+          ]
+        },
+        {
+          "text": "Ukrainian officials said Russian missile, drone and bomb attacks killed at least 377 people in July, the highest monthly toll since April 2022.",
+          "sources": [
+            "52589533f44a"
+          ]
+        },
+        {
+          "text": "The Sumy regional administration said early Tuesday that two children and an elderly woman were killed in overnight strikes in the Sumy region.",
+          "sources": [
+            "52589533f44a"
+          ]
+        },
+        {
+          "text": "Ivan Fedorov, the Zaporizhzhia regional chief, said Tuesday that two people were killed in Zaporizhzhia, and he had said a day earlier that one person was killed when Russia dropped eight glide bombs on the region.",
+          "sources": [
+            "52589533f44a"
+          ]
+        },
+        {
+          "text": "The report was dated August 4, 2026.",
+          "sources": [
+            "e2536a092bf9"
+          ]
+        },
+        {
+          "text": "Russia and Ukraine continue to conduct strikes against each other.",
+          "sources": [
+            "fdc3a0526c24"
+          ]
+        },
+        {
+          "text": "CBS News reported on the incident, with coverage by Aidan Stretch.",
+          "sources": [
+            "fdc3a0526c24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t7",
+      "title": "Investigation finds Southern California Edison equipment caused Eaton Fire",
+      "articles": [
+        {
+          "id": "ebeb653d9640",
+          "outlet": "CBS News",
+          "title": "Eaton Fire in Altadena sparked by SoCal Edison electric tower, probe finds",
+          "url": "https://www.cbsnews.com/news/california-eaton-fire-report-socal-edison-electric-tower/",
+          "published_at": "2026-08-04T21:40:00+00:00"
+        },
+        {
+          "id": "9ba6c1077254",
+          "outlet": "ABC News",
+          "title": "Southern California Edison equipment blamed for 2025 Eaton Fire in Los Angeles",
+          "url": "https://abcnews.com/Business/wireStory/southern-california-edison-equipment-blamed-2025-eaton-fire-135362332",
+          "published_at": "2026-08-04T21:51:04+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "The Los Angeles County Fire Department released a report on Tuesday concluding the investigation into the cause of the Eaton Fire.",
+          "sources": [
+            "9ba6c1077254",
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "The investigation into the Eaton Fire's origins lasted 18 months.",
+          "sources": [
+            "9ba6c1077254",
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "The investigation concluded that electrical arcing events on an out-of-service transmission tower caused the Eaton Fire.",
+          "sources": [
+            "9ba6c1077254",
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "The Eaton Fire began on January 7, 2025.",
+          "sources": [
+            "9ba6c1077254",
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "The Eaton Fire killed 19 people.",
+          "sources": [
+            "9ba6c1077254",
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "The Eaton Fire destroyed or damaged more than 9,000 homes and businesses.",
+          "sources": [
+            "9ba6c1077254",
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "The investigation involved electrical and metallurgical experts.",
+          "sources": [
+            "9ba6c1077254"
+          ]
+        },
+        {
+          "text": "The investigation was conducted jointly by the Los Angeles County Fire Department's Arson Fire Investigation Unit and Cal Fire.",
+          "sources": [
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "The report stated that the Eaton Fire was caused by Southern California Edison equipment, with the arcing occurring on an out-of-service Southern California Edison tower.",
+          "sources": [
+            "9ba6c1077254"
+          ]
+        },
+        {
+          "text": "The report stated that arcing events ejected hot metal particles that fell onto dry vegetation below the towers.",
+          "sources": [
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "The transmission tower sits on a ridge above the Eaton Wash.",
+          "sources": [
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "The Eaton Fire burned 22 square miles (57 square kilometers).",
+          "sources": [
+            "9ba6c1077254"
+          ]
+        },
+        {
+          "text": "Firefighters took nearly a month to extinguish the Eaton Fire.",
+          "sources": [
+            "9ba6c1077254"
+          ]
+        },
+        {
+          "text": "The destruction from the Eaton Fire was primarily in Altadena and also affected nearby Pasadena.",
+          "sources": [
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "CBS LA contacted Southern California Edison for comment and did not immediately receive a response.",
+          "sources": [
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "Southern California Edison announced last month that it had paid more than $314 million to Eaton Fire victims through its Wildfire Recovery Compensation Program.",
+          "sources": [
+            "ebeb653d9640"
+          ]
+        },
+        {
+          "text": "Southern California Edison claimed in lawsuits earlier this year that Los Angeles County agencies failed to send timely evacuation warnings to residents in east and west Altadena.",
+          "sources": [
+            "9ba6c1077254"
+          ]
+        },
+        {
+          "text": "Eighteen of the 19 people who died in the Eaton Fire lived in west Altadena.",
+          "sources": [
+            "9ba6c1077254"
+          ]
+        },
+        {
+          "text": "Southern California Edison claimed that water agencies, including Pasadena Water and Power, did not provide enough water as the fire spread.",
+          "sources": [
+            "9ba6c1077254"
+          ]
+        },
+        {
+          "text": "Los Angeles County declined to comment on the recent court filings.",
+          "sources": [
+            "9ba6c1077254"
+          ]
+        },
+        {
+          "text": "The Palisades Fire, which burned at the same time as the Eaton Fire, killed 12 people and destroyed more than 6,800 homes and buildings in Pacific Palisades.",
+          "sources": [
+            "9ba6c1077254"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t8",
+      "title": "Questions about Jeanine Pirro's future as U.S. attorney",
+      "articles": [
+        {
+          "id": "de5f13a9f4cf",
+          "outlet": "NBC News",
+          "title": "Jeanine Pirro Faces Uncertain Future After Reflecting Pool Case",
+          "url": "https://www.today.com/video/jeanine-pirro-s-future-in-question-after-trump-says-she-choked-267728453733",
+          "published_at": "2026-08-04T15:25:06+00:00"
+        },
+        {
+          "id": "7f2271b6ad50",
+          "outlet": "ABC News",
+          "title": "Pirro meets with Trump at White House amid questions about her future",
+          "url": "https://abcnews.com/Politics/pirro-meets-trump-white-house-amid-questions-future/story?id=135337199",
+          "published_at": "2026-08-04T16:18:27+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "U.S. Attorney for the District of Columbia Jeanine Pirro dismissed a felony indictment against David Hearn, a three-time Olympian canoeist, related to damage to the Lincoln Memorial Reflecting Pool.",
+          "sources": [
+            "7f2271b6ad50",
+            "de5f13a9f4cf"
+          ]
+        },
+        {
+          "text": "President Donald Trump publicly criticized Jeanine Pirro's decision to drop the charges.",
+          "sources": [
+            "7f2271b6ad50",
+            "de5f13a9f4cf"
+          ]
+        },
+        {
+          "text": "Jeanine Pirro is a long-time ally of President Donald Trump.",
+          "sources": [
+            "de5f13a9f4cf"
+          ]
+        },
+        {
+          "text": "NBC's Gabe Gutierrez reported on the story for TODAY on August 4, 2026.",
+          "sources": [
+            "de5f13a9f4cf"
+          ]
+        },
+        {
+          "text": "Sources familiar with the matter told ABC News that Pirro met with President Trump at the White House on Monday afternoon.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Pirro stated in a 20-page court filing that the damage to the Reflecting Pool was caused by flawed installation by the contractor rather than vandalism.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Trump said at an Oval Office event on Monday that he was very disappointed in Pirro's decision to dismiss the indictment against Hearn.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Trump said Pirro made a mistake and choked under pressure from the judge in the case, and remarked that she folded like an umbrella.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Hearn was arrested at the Reflecting Pool in late June and charged with a felony for allegedly causing more than $1,000 in damage.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Hearn said he had only touched a piece of the pool liner that had peeled from the bottom, and he pleaded not guilty to the charges.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Pirro cited internal National Park Service communication from June 11 that raised concerns about the peeling pool liner more than a week before Hearn's arrest.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Pirro also dropped misdemeanor cases against three other people related to destruction of property at the Reflecting Pool.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Trump criticized Pirro's decision to drop the Hearn case in a social media post on Saturday, writing that it was a pure case of vandalism.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "Pirro said in her Friday court filing that she visited the Reflecting Pool on July 1.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        },
+        {
+          "text": "The Reflecting Pool was drained for repairs shortly after the Fourth of July holiday and is currently empty and fenced off from the public.",
+          "sources": [
+            "7f2271b6ad50"
+          ]
+        }
+      ]
+    }
+  ],
+  "comparison_meta": {
+    "backend": "claude",
+    "model": "claude-fable-5",
+    "timings": {
+      "cluster_s": 23.4,
+      "extract_s": 82.9,
+      "corroborate_s": 239.8
+    },
+    "articles_in": 111
+  }
+}

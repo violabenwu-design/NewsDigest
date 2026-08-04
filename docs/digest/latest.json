@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T17:53:09+00:00",
+  "sources": [
+    {
+      "outlet": "NPR",
+      "feeds": [
+        "https://feeds.npr.org/1001/rss.xml"
+      ]
+    },
+    {
+      "outlet": "New York Times",
+      "feeds": [
+        "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+      ]
+    },
+    {
+      "outlet": "Washington Post",
+      "feeds": [
+        "https://feeds.washingtonpost.com/rss/national"
+      ]
+    },
+    {
+      "outlet": "Wall Street Journal",
+      "feeds": [
+        "https://feeds.content.dowjones.io/public/rss/RSSWorldNews"
+      ]
+    },
+    {
+      "outlet": "Fox News",
+      "feeds": [
+        "https://moxie.foxnews.com/google-publisher/latest.xml"
+      ]
+    },
+    {
+      "outlet": "ABC News",
+      "feeds": [
+        "https://abcnews.go.com/abcnews/topstories"
+      ]
+    },
+    {
+      "outlet": "NBC News",
+      "feeds": [
+        "https://feeds.nbcnews.com/nbcnews/public/news"
+      ]
+    },
+    {
+      "outlet": "CBS News",
+      "feeds": [
+        "https://www.cbsnews.com/latest/rss/main"
+      ]
+    },
+    {
+      "outlet": "The Hill",
+      "feeds": [
+        "https://thehill.com/news/feed/"
+      ]
+    },
+    {
+      "outlet": "Politico",
+      "feeds": [
+        "https://rss.politico.com/politics-news.xml"
+      ]
+    },
+    {
+      "outlet": "The Guardian US",
+      "feeds": [
+        "https://www.theguardian.com/us-news/rss"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "t5",
+      "title": "Coverage: arrested",
+      "articles": [
+        {
+          "id": "2b18b4d96376",
+          "outlet": "New York Times",
+          "title": "Man Arrested on Suspicion of Arson in Spokane Wildfire",
+          "url": "https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html",
+          "published_at": "2026-08-04T20:39:56+00:00"
+        },
+        {
+          "id": "e27961896c03",
+          "outlet": "ABC News",
+          "title": "ICE arrested 51K individuals in July, highest in a single month in DHS history",
+          "url": "https://abcnews.com/Politics/ice-arrests-hit-record-high-july-enforcement-quietly/story?id=135356433",
+          "published_at": "2026-08-04T21:05:44+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "A shared placeholder fact.",
+          "sources": [
+            "2b18b4d96376",
+            "e27961896c03"
+          ]
+        },
+        {
+          "text": "Placeholder fact unique to one outlet.",
+          "sources": [
+            "2b18b4d96376"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t1",
+      "title": "Coverage: democrats",
+      "articles": [
+        {
+          "id": "0dd3fd9a3278",
+          "outlet": "NBC News",
+          "title": "Democrats Face Big Test in Critical Michigan Primary",
+          "url": "https://www.today.com/video/primaries-underway-in-5-states-here-are-key-contests-to-watch-267728453730",
+          "published_at": "2026-08-04T15:20:11+00:00"
+        },
+        {
+          "id": "53e39a3dd768",
+          "outlet": "NPR",
+          "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
+          "url": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
+          "published_at": "2026-08-04T21:43:06+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "A shared placeholder fact.",
+          "sources": [
+            "0dd3fd9a3278",
+            "53e39a3dd768"
+          ]
+        },
+        {
+          "text": "Placeholder fact unique to one outlet.",
+          "sources": [
+            "0dd3fd9a3278"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "title": "Coverage: drought",
+      "articles": [
+        {
+          "id": "89b8bf774588",
+          "outlet": "Wall Street Journal",
+          "title": "Ships Can’t Move and Power Plants Shut Down as Drought Saps Europe’s Rivers",
+          "url": "https://www.wsj.com/world/europe/ships-cant-move-and-power-plants-shut-down-as-drought-saps-europes-rivers-8b083c62",
+          "published_at": "2026-08-03T22:56:00+00:00"
+        },
+        {
+          "id": "825e71c21697",
+          "outlet": "NPR",
+          "title": "Europe heat wave fuels drought, fires and energy fears",
+          "url": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
+          "published_at": "2026-08-04T20:37:38+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "A shared placeholder fact.",
+          "sources": [
+            "825e71c21697",
+            "89b8bf774588"
+          ]
+        },
+        {
+          "text": "Placeholder fact unique to one outlet.",
+          "sources": [
+            "89b8bf774588"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t4",
+      "title": "Coverage: ellison",
+      "articles": [
+        {
+          "id": "db540789fc91",
+          "outlet": "Fox News",
+          "title": "David Ellison breaks silence on Paramount-WBD merger fight, CNN insiders don’t buy ‘lip service’ about network",
+          "url": "https://www.foxnews.com/media/david-ellison-breaks-silence-paramount-wbd-merger-fight-cnn-insiders-dont-buy-lip-service-about-network",
+          "published_at": "2026-08-04T20:12:42+00:00"
+        },
+        {
+          "id": "f81efd41fa4d",
+          "outlet": "New York Times",
+          "title": "David Ellison: In Defense of the Paramount-Warner Deal",
+          "url": "https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html",
+          "published_at": "2026-08-04T21:24:55+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "A shared placeholder fact.",
+          "sources": [
+            "db540789fc91",
+            "f81efd41fa4d"
+          ]
+        },
+        {
+          "text": "Placeholder fact unique to one outlet.",
+          "sources": [
+            "db540789fc91"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t8",
+      "title": "Coverage: embattled",
+      "articles": [
+        {
+          "id": "f54bb9c4ee37",
+          "outlet": "ABC News",
+          "title": "WATCH:  Embattled Rep. Max Miller faces new restraining order",
+          "url": "https://abcnews.com/video/135349680/",
+          "published_at": "2026-08-04T18:54:26+00:00"
+        },
+        {
+          "id": "dd5295e1d07c",
+          "outlet": "NBC News",
+          "title": "Embattled GOP Rep. Max Miller requests an Ethics investigation into himself",
+          "url": "https://www.nbcnews.com/politics/congress/embattled-gop-rep-max-miller-requests-ethics-investigation-rcna590796",
+          "published_at": "2026-08-04T21:25:39+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "A shared placeholder fact.",
+          "sources": [
+            "dd5295e1d07c",
+            "f54bb9c4ee37"
+          ]
+        },
+        {
+          "text": "Placeholder fact unique to one outlet.",
+          "sources": [
+            "f54bb9c4ee37"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t7",
+      "title": "Coverage: judiciary",
+      "articles": [
+        {
+          "id": "e2f45ffcdf52",
+          "outlet": "NBC News",
+          "title": "Senate Judiciary Committee advances Todd Blanche's attorney general nomination",
+          "url": "https://www.nbcnews.com/video/senate-judiciary-committee-advances-todd-blanche-s-attorney-general-nomination-267742277912",
+          "published_at": "2026-08-04T19:17:50+00:00"
+        },
+        {
+          "id": "ca857dc57260",
+          "outlet": "ABC News",
+          "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
+          "url": "https://abcnews.com/Politics/senate-judiciary-committee-advances-todd-blanches-nomination-attorney/story?id=135353842",
+          "published_at": "2026-08-04T21:19:47+00:00"
+        }
+      ],
+      "facts": [
+        {
+          "text": "A shared placeholder fact.",
+          "sources": [
+            "ca857dc57260",
+            "e2f45ffcdf52"
+          ]
+        },
+        {
+          "text": "Placeholder fact unique to one outlet.",
+          "sources": [
+            "e2f45ffcdf52"
+          ]
+        }
+      ]
+    }
+  ]
+}

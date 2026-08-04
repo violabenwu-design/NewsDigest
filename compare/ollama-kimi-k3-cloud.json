@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T19:54:43+00:00",
+  "sources": [],
+  "topics": [],
+  "comparison_meta": {
+    "backend": "ollama",
+    "model": "kimi-k3:cloud",
+    "timings": {
+      "cluster_s": 16.4,
+      "extract_s": 0.0,
+      "corroborate_s": 0.0
+    },
+    "articles_in": 111
+  }
+}
