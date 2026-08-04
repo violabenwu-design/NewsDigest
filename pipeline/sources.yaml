@@ -26,3 +26,19 @@ sources:
     - https://rss.politico.com/politics-news.xml
   The Guardian US:
     - https://www.theguardian.com/us-news/rss
+  # --- International (verified working 2026-08) ---
+  # WION omitted: no functioning public RSS feed found (like AP/Reuters/CNN).
+  BBC:
+    - https://feeds.bbci.co.uk/news/world/rss.xml
+  Al Jazeera:
+    - https://www.aljazeera.com/xml/rss/all.xml
+  France 24:
+    - https://www.france24.com/en/rss
+  Deutsche Welle:
+    - https://rss.dw.com/rdf/rss-en-all
+  Times of India:
+    - https://timesofindia.indiatimes.com/rssfeeds/296589292.cms
+  South China Morning Post:
+    - https://www.scmp.com/rss/91/feed
+  ABC Australia:
+    - https://www.abc.net.au/news/feed/51120/rss.xml
