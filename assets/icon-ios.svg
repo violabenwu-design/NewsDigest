@@ -1,0 +1,48 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F1E48"/>
+      <stop offset="0.55" stop-color="#123B6D"/>
+      <stop offset="1" stop-color="#0A6E9E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.28" r="0.75">
+      <stop offset="0" stop-color="#3FA9F5" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3FA9F5" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="page" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EAF1F9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <rect width="1024" height="1024" fill="url(#glow)"/>
+
+  <!-- side pages: many sources converging -->
+  <g transform="rotate(-9 512 560)">
+    <rect x="252" y="292" width="380" height="500" rx="34" fill="#FFFFFF" opacity="0.30"/>
+  </g>
+  <g transform="rotate(9 512 560)">
+    <rect x="392" y="292" width="380" height="500" rx="34" fill="#FFFFFF" opacity="0.30"/>
+  </g>
+
+  <!-- main fact sheet -->
+  <rect x="312" y="262" width="400" height="530" rx="36" fill="url(#page)"/>
+
+  <!-- headline bar -->
+  <rect x="368" y="330" width="288" height="52" rx="16" fill="#12294F"/>
+
+  <!-- fact lines -->
+  <rect x="368" y="426" width="288" height="34" rx="12" fill="#A9BFDA"/>
+  <rect x="368" y="492" width="236" height="34" rx="12" fill="#A9BFDA"/>
+  <rect x="368" y="558" width="262" height="34" rx="12" fill="#A9BFDA"/>
+
+  <!-- corroboration dots: three sources agreeing -->
+  <circle cx="524" cy="686" r="34" fill="#8AB4F8" opacity="0.95"/>
+  <circle cx="472" cy="686" r="34" fill="#4285F4" opacity="0.95"/>
+  <circle cx="420" cy="686" r="34" fill="#34A853"/>
+  <!-- check mark in the lead dot -->
+  <path d="M 404 686 l 12 12 l 22 -24" stroke="#FFFFFF" stroke-width="9"
+        stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
