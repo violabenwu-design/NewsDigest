@@ -60,8 +60,8 @@ The pipeline supports two interchangeable LLM backends (`pipeline/llm.py`):
   Free, private, no API key; lower fact-extraction quality than Claude.
   Configure with `DIGEST_OLLAMA_MODEL` (default `qwen3:8b`) and `OLLAMA_URL`.
 
-Backends are spec strings: `claude` (= `claude:claude-opus-5`),
-`claude:claude-fable-5`, `ollama` (= `ollama:qwen3:8b`), `ollama:kimi-k3:cloud`
+Backends are spec strings: `claude` (= `claude:claude-fable-5`),
+`claude:claude-opus-5`, `ollama` (= `ollama:qwen3:8b`), `ollama:kimi-k3:cloud`
 (needs an Ollama Pro/Max subscription — the model runs on Ollama's cloud), etc.
 Select via `python main.py --backend <spec>` or `DIGEST_LLM_BACKEND=<spec>`.
 
