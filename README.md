@@ -47,21 +47,21 @@ python main.py
 ```
 
 Output is written to `docs/digest/`. Sources are configured in
-`pipeline/sources.yaml`. Rough cost: ~$3–8 per daily run with `claude-fable-5`
+`pipeline/sources.yaml`. Rough cost: ~$1.50–4 per daily run with `claude-opus-5`
 at 30–80 articles.
 
 ## Model backends
 
 The pipeline supports two interchangeable LLM backends (`pipeline/llm.py`):
 
-- `claude` (default) — Anthropic API, `claude-fable-5` (override with `DIGEST_CLAUDE_MODEL`). Needs `ANTHROPIC_API_KEY`.
+- `claude` (default) — Anthropic API, `claude-opus-5` (override with `DIGEST_CLAUDE_MODEL`). Needs `ANTHROPIC_API_KEY`.
   Used by the GitHub Actions workflow.
 - `ollama` — a local model via [Ollama](https://ollama.com) structured outputs.
   Free, private, no API key; lower fact-extraction quality than Claude.
   Configure with `DIGEST_OLLAMA_MODEL` (default `qwen3:8b`) and `OLLAMA_URL`.
 
-Backends are spec strings: `claude` (= `claude:claude-fable-5`),
-`claude:claude-opus-5`, `ollama` (= `ollama:qwen3:8b`), `ollama:kimi-k3:cloud`
+Backends are spec strings: `claude` (= `claude:claude-opus-5`),
+`claude:claude-fable-5`, `ollama` (= `ollama:qwen3:8b`), `ollama:kimi-k3:cloud`
 (needs an Ollama Pro/Max subscription — the model runs on Ollama's cloud), etc.
 Select via `python main.py --backend <spec>` or `DIGEST_LLM_BACKEND=<spec>`.
 
