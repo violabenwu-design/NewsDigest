@@ -20,7 +20,7 @@ log = logging.getLogger(__name__)
 
 BACKEND = os.environ.get("DIGEST_LLM_BACKEND", "claude")
 
-CLAUDE_MODEL = "claude-opus-5"
+CLAUDE_MODEL = os.environ.get("DIGEST_CLAUDE_MODEL", "claude-fable-5")
 OLLAMA_MODEL = os.environ.get("DIGEST_OLLAMA_MODEL", "qwen3:8b")
 OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://localhost:11434")
 
@@ -41,18 +41,36 @@ def _claude_call(model, system, user, schema, max_tokens, effort):
         import anthropic
 
         _claude_client = anthropic.Anthropic()
-    # No refusal fallbacks here on purpose: in a model comparison, a fallback
-    # model's answer would silently pollute the column. A refusal skips the call.
-    response = _claude_client.messages.create(
-        model=model,
-        max_tokens=max_tokens,
-        system=system,
-        output_config={
-            "effort": effort,
-            "format": {"type": "json_schema", "schema": schema},
-        },
-        messages=[{"role": "user", "content": user}],
-    )
+    if model.startswith("claude-fable"):
+        # Fable's safety classifiers can decline benign news content (e.g.
+        # cyberattack coverage). Server-side fallback re-runs a declined
+        # request on Anthropic's recommended substitute model so no article
+        # silently drops out of the digest.
+        response = _claude_client.beta.messages.create(
+            model=model,
+            max_tokens=max_tokens,
+            system=system,
+            betas=["server-side-fallback-2026-07-01"],
+            output_config={
+                "effort": effort,
+                "format": {"type": "json_schema", "schema": schema},
+            },
+            messages=[{"role": "user", "content": user}],
+            extra_body={"fallbacks": "default"},
+        )
+    else:
+        # Non-Fable models: no fallbacks on purpose — in a model comparison, a
+        # fallback model's answer would silently pollute the column.
+        response = _claude_client.messages.create(
+            model=model,
+            max_tokens=max_tokens,
+            system=system,
+            output_config={
+                "effort": effort,
+                "format": {"type": "json_schema", "schema": schema},
+            },
+            messages=[{"role": "user", "content": user}],
+        )
     if response.stop_reason == "refusal":
         log.warning("%s refused request; skipping", model)
         return None
