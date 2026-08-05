@@ -71,7 +71,13 @@ def main() -> int:
     log.info("stage 4: corroborating facts per topic")
     for topic in topics:
         corroborate_topic(topic, facts_by_article)
+    dropped = [t.id for t in topics if not t.facts]
+    if dropped:
+        log.warning("dropping %d topic(s) with no facts: %s", len(dropped), dropped)
     topics = [t for t in topics if t.facts]
+    if not topics:
+        log.error("every topic failed; keeping the previous digest untouched")
+        return 1
     # busiest stories first
     topics.sort(key=lambda t: (-len(t.articles), t.title))
 

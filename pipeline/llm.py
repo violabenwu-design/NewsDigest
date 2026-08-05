@@ -40,7 +40,9 @@ def _claude_call(model, system, user, schema, max_tokens, effort):
     if _claude_client is None:
         import anthropic
 
-        _claude_client = anthropic.Anthropic()
+        # Daily batch job: latency doesn't matter, completing does. Ride out
+        # transient 429/5xx/529 (overloaded) with generous SDK-level retries.
+        _claude_client = anthropic.Anthropic(max_retries=8, timeout=600.0)
     # No refusal fallbacks here on purpose: in a model comparison, a fallback
     # model's answer would silently pollute the column. A refusal skips the call.
     # (If production ever moves to claude-fable-5, re-add the beta fallbacks
@@ -92,12 +94,19 @@ def structured_call(
     effort: str = "medium",
     backend: str | None = None,
 ) -> dict | None:
-    """Run one structured-output request. Returns parsed JSON or None on failure."""
+    """Run one structured-output request. Returns parsed JSON, or None if the
+    call failed — callers must treat None as "skip this item", never as fatal."""
     kind, model = resolve(backend or BACKEND)
-    if kind == "ollama":
-        text = _ollama_call(model, system, user, schema, max_tokens, effort)
-    else:
-        text = _claude_call(model, system, user, schema, max_tokens, effort)
+    try:
+        if kind == "ollama":
+            text = _ollama_call(model, system, user, schema, max_tokens, effort)
+        else:
+            text = _claude_call(model, system, user, schema, max_tokens, effort)
+    except Exception as e:
+        # Retries are already exhausted by here (SDK-level). One dead call must
+        # not destroy a whole run, so degrade instead of raising.
+        log.error("%s call failed after retries: %s: %s", model, type(e).__name__, e)
+        return None
     if text is None:
         return None
     try:
