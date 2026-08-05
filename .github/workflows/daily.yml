@@ -2,10 +2,13 @@ name: Daily news digest
 
 on:
   schedule:
-    # GitHub Actions cron is UTC and does not track DST.
-    # 15:00 UTC = 8:00am PDT (summer). Use "0 16 * * *" for 8:00am PST (winter),
-    # or adjust to your timezone.
-    - cron: "0 15 * * *"
+    # Target: 8:00am in Atlantic/Bermuda. GitHub Actions cron is UTC and does
+    # NOT track DST, so both offsets are scheduled and the `gate` job below
+    # cancels whichever one isn't 8am locally today.
+    #   11:00 UTC = 8:00am ADT (summer, UTC-3)
+    #   12:00 UTC = 8:00am AST (winter, UTC-4)
+    - cron: "0 11 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,7 +20,31 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # Exactly one of the two crons is 8am in Bermuda on any given day.
+  # Manual runs (workflow_dispatch) always proceed.
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      proceed: ${{ steps.check.outputs.proceed }}
+    steps:
+      - id: check
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          hour=$(TZ=Atlantic/Bermuda date +%H)
+          if [ "$hour" = "08" ]; then
+            echo "Local hour is 08 — running."
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Local hour is $hour, not 08 — skipping (other cron covers today)."
+            echo "proceed=false" >> "$GITHUB_OUTPUT"
+          fi
+
   digest:
+    needs: gate
+    if: needs.gate.outputs.proceed == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
